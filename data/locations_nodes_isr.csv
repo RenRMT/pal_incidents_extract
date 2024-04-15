@@ -1,0 +1,457 @@
+id,title,title_fr,slug,path,country,latlng,source,type
+"locations:ISR-N1709545103607","-N/A- urban sub-division",,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.793462, ""lng"":34.989722}",INSO,node
+"locations:ISRAm1710157403412",Amikam,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.5645, ""lng"":35.022182}",INSO,node
+"locations:ISRAv1709898471369",Avivim,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.089308, ""lng"":35.471335}",INSO,node
+"locations:ISRDo1709124970266",Dovev,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.051889, ""lng"":35.407865}",INSO,node
+"locations:ISRKe1709731807755","Kerem Shalom",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.228252, ""lng"":34.281689}",INSO,node
+"locations:ISRMa1709112403952",Margaliot,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.215627, ""lng"":35.5447}",INSO,node
+"locations:ISRMa1709647824751",Manara,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.195696, ""lng"":35.54448}",INSO,node
+"locations:ISRMe1709124658478",Meron,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":32.985188, ""lng"":35.441102}",INSO,node
+"locations:ISRNe1709731549265","Netu'a",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.065241, ""lng"":35.323068}",INSO,node
+"locations:ISRNi1709126142359",Nitzana,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":30.88576, ""lng"":34.421829}",INSO,node
+"locations:ISRRe1709569244035",Reineh,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.719975, ""lng"":35.317457}",INSO,node
+"locations:ISRRo1709912896233","Rosh Hanikra",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.086574, ""lng"":35.115656}",INSO,node
+"locations:ISRSa1709125378458",Sasa,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.027036, ""lng"":35.393541}",INSO,node
+"locations:ISRSh1709111864999",Shtula,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.085714, ""lng"":35.315647}",INSO,node
+"locations:ISRSh1709717436255","Shebaa Farms",,[isr],"[isr,isr_a1_1,isr_a2_03]",,"{""lat"":33.269466, ""lng"":35.638813}",INSO,node
+"locations:ISRYa1710171259370","Ya'ara",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.067328, ""lng"":35.186246}",INSO,node
+"locations:ISRYi1710165735133",Yiftach,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.128641, ""lng"":35.551786}",INSO,node
+"locations:ISRZa1709731021231","Zar'it",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.099736, ""lng"":35.288518}",INSO,node
+"locations:ISRZi1709648105663",Zikim,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.607079, ""lng"":34.521488}",INSO,node
+locations:isr,Israel,,[isr],[],,,,
+locations:isr_a1_1,"North District",,[isr],[isr],,,,
+locations:isr_a1_2,"Tel Aviv District",,[isr],[isr],,,,
+locations:isr_a1_3,"Haifa District",,[isr],[isr],,,,
+locations:isr_a1_4,"South District",,[isr],[isr],,,,
+locations:isr_a1_5,"Center District",,[isr],[isr],,,,
+locations:isr_a1_6,"Jerusalem District",,[isr],[isr],,,,
+locations:isr_a2_01,Safed,,[isr],"[isr,isr_a1_1]",,,,
+locations:isr_a2_02,Kinneret,,[isr],"[isr,isr_a1_1]",,,,
+locations:isr_a2_03,"Golan Heights",,[isr],"[isr,isr_a1_1]",,,,
+locations:isr_a2_04,Hadera,,[isr],"[isr,isr_a1_3]",,,,
+locations:isr_a2_05,Haifa,,[isr],"[isr,isr_a1_3]",,,,
+locations:isr_a2_06,Ashkelon,,[isr],"[isr,isr_a1_4]",,,,
+locations:isr_a2_07,Beersheba,,[isr],"[isr,isr_a1_4]",,,,
+locations:isr_a2_08,"Petah Tikva",,[isr],"[isr,isr_a1_5]",,,,
+locations:isr_a2_09,haSharon,,[isr],"[isr,isr_a1_5]",,,,
+locations:isr_a2_10,Ramla,,[isr],"[isr,isr_a1_5]",,,,
+locations:isr_a2_11,Rehovot,,[isr],"[isr,isr_a1_5]",,,,
+locations:isr_a2_12,Jezreel,,[isr],"[isr,isr_a1_1]",,,,
+locations:isr_a2_13,Acre,,[isr],"[isr,isr_a1_1]",,,,
+locations:isr_a2_14,"Tel Aviv",,[isr],"[isr,isr_a1_2]",,,,
+locations:isr_a2_15,Jerusalem,,[isr],"[isr,isr_a1_6]",,,,
+locations:isr_c_0001,"Abu Ghaush",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.80592, ""lng"":35.1093}",,node
+locations:isr_c_0002,"Abu Sinan",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.95891, ""lng"":35.17152}",,node
+locations:isr_c_0003,Acre,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.92814, ""lng"":35.07647}",,node
+locations:isr_c_0004,Adi,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.78486, ""lng"":35.17282}",,node
+locations:isr_c_0005,Afiqim,,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.68046, ""lng"":35.57776}",,node
+locations:isr_c_0006,Afula,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.60907, ""lng"":35.2892}",,node
+locations:isr_c_0007,"Ahi'ezer",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.98133, ""lng"":34.87213}",,node
+locations:isr_c_0008,Ahisamakh,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.93503, ""lng"":34.90739}",,node
+locations:isr_c_0009,Ahituv,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.38873, ""lng"":34.99072}",,node
+locations:isr_c_0010,"Ahuzzat Baraq",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.64187, ""lng"":35.33834}",,node
+locations:isr_c_0011,"Al Butayhah",,[isr],"[isr,isr_a1_1,isr_a2_03]",,"{""lat"":32.90871, ""lng"":35.63199}",,node
+locations:isr_c_0012,"Al Khushniyah",,[isr],"[isr,isr_a1_1,isr_a2_03]",,"{""lat"":32.99941, ""lng"":35.81084}",,node
+locations:isr_c_0013,"Allon HaGalil",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.75742, ""lng"":35.22089}",,node
+locations:isr_c_0014,"AlSayid Tribe",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.28252, ""lng"":34.91505}",,node
+locations:isr_c_0015,Amminadav,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.75212, ""lng"":35.14733}",,node
+locations:isr_c_0016,Arad,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.25882, ""lng"":35.21282}",,node
+locations:isr_c_0017,Aramsha,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.08781, ""lng"":35.22836}",,node
+locations:isr_c_0018,"Ar'ara",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.49553, ""lng"":35.09411}",,node
+locations:isr_c_0019,"Ar'ara BaNegev",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.16046, ""lng"":35.02274}",,node
+locations:isr_c_0020,Arugot,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.73503, ""lng"":34.77016}",,node
+locations:isr_c_0021,Ashdod,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.79213, ""lng"":34.64966}",,node
+locations:isr_c_0022,"Ashdot Ya'aqov Ihud",,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.65843, ""lng"":35.58117}",,node
+locations:isr_c_0023,Ashkelon,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.66926, ""lng"":34.57149}",,node
+locations:isr_c_0024,Atlit,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.68889, ""lng"":34.94236}",,node
+locations:isr_c_0025,"Ayyelet HaShahar",,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.02224, ""lng"":35.57716}",,node
+locations:isr_c_0026,Azor,,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.0243, ""lng"":34.80632}",,node
+locations:isr_c_0027,Azriqam,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.7507, ""lng"":34.69933}",,node
+locations:isr_c_0028,Bahan,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.35082, ""lng"":35.01862}",,node
+locations:isr_c_0029,"Baqa el Gharbiya",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.41806, ""lng"":35.04312}",,node
+locations:isr_c_0030,"Bar Yuhay",,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":32.99848, ""lng"":35.44419}",,node
+locations:isr_c_0031,Bareqet,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.01839, ""lng"":34.94416}",,node
+locations:isr_c_0032,Basma,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.52904, ""lng"":35.10059}",,node
+locations:isr_c_0033,"Basmat Tab'un",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.73898, ""lng"":35.15716}",,node
+locations:isr_c_0034,"Bat Hefer",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.33307, ""lng"":35.01272}",,node
+locations:isr_c_0035,"Bat Yam",,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.02379, ""lng"":34.75185}",,node
+locations:isr_c_0036,Batsra,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.21412, ""lng"":34.87676}",,node
+locations:isr_c_0037,"Be'er Ganim",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.69973, ""lng"":34.60978}",,node
+locations:isr_c_0038,"Be'er Ora",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":29.71053, ""lng"":34.98019}",,node
+locations:isr_c_0039,"Be'er Toviyya",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.73501, ""lng"":34.72389}",,node
+locations:isr_c_0040,"Be'er Ya'aqov",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.93864, ""lng"":34.83749}",,node
+locations:isr_c_0041,"Be'eri",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.42426, ""lng"":34.49163}",,node
+locations:isr_c_0042,"Be'erotayim",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.32111, ""lng"":34.98324}",,node
+locations:isr_c_0043,Beersheba,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.25181, ""lng"":34.7913}",,node
+locations:isr_c_0044,"Beit Jann",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.96464, ""lng"":35.38152}",,node
+locations:isr_c_0045,"Ben Zakkay",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.85612, ""lng"":34.72747}",,node
+locations:isr_c_0046,Berekhya,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.66895, ""lng"":34.6258}",,node
+locations:isr_c_0047,"Bet Alfa",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.51609, ""lng"":35.43068}",,node
+locations:isr_c_0048,"Bet 'Arif",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.99622, ""lng"":34.93459}",,node
+locations:isr_c_0049,"Bet Dagan",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":32.00191, ""lng"":34.82977}",,node
+locations:isr_c_0050,"Bet El'azari",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.84429, ""lng"":34.80368}",,node
+locations:isr_c_0051,"Bet 'Ezra",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.73606, ""lng"":34.65594}",,node
+locations:isr_c_0052,"Bet Gamli'el",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.85555, ""lng"":34.76249}",,node
+locations:isr_c_0053,"Bet Guvrin",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.61294, ""lng"":34.89571}",,node
+locations:isr_c_0054,"Bet HaShitta",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.55131, ""lng"":35.43874}",,node
+locations:isr_c_0055,"Bet Hashmonay",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.88969, ""lng"":34.91673}",,node
+locations:isr_c_0056,"Bet Hilqiyya",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.79281, ""lng"":34.81048}",,node
+locations:isr_c_0057,"Bet Qama",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.44749, ""lng"":34.76235}",,node
+locations:isr_c_0058,"Bet Rabban",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.81677, ""lng"":34.72937}",,node
+locations:isr_c_0059,"Bet She'an",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.49728, ""lng"":35.49632}",,node
+locations:isr_c_0060,"Bet Shemesh",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.73072, ""lng"":34.99293}",,node
+locations:isr_c_0061,"Bet Yehoshua'",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.25942, ""lng"":34.86414}",,node
+locations:isr_c_0062,"Bet Zayit",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.78233, ""lng"":35.16161}",,node
+locations:isr_c_0063,BetYitshaq,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.32751, ""lng"":34.88878}",,node
+locations:isr_c_0064,"BetYitshaqSha'arHefer",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.33462, ""lng"":34.89052}",,node
+locations:isr_c_0065,"Bi'na",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.93066, ""lng"":35.27157}",,node
+locations:isr_c_0066,Binyamina,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.5232, ""lng"":34.94499}",,node
+locations:isr_c_0067,"Binyamina-Giv'at Ada",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.51824, ""lng"":34.95398}",,node
+locations:isr_c_0068,"Bir el Maksur",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.77732, ""lng"":35.22069}",,node
+locations:isr_c_0069,"Bir Hadaj",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.02416, ""lng"":34.70857}",,node
+locations:isr_c_0070,Bizzaron,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.79446, ""lng"":34.72806}",,node
+locations:isr_c_0071,BneDror,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.2615, ""lng"":34.90196}",,node
+locations:isr_c_0072,"Bnei Ayish",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.78333, ""lng"":34.75}",,node
+locations:isr_c_0073,"Bnei Brak",,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.08074, ""lng"":34.8338}",,node
+locations:isr_c_0074,"BneRe'em",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.77029, ""lng"":34.79105}",,node
+locations:isr_c_0075,Bu`eina,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.80636, ""lng"":35.36486}",,node
+locations:isr_c_0076,"Bu'ayna-Nujaydat",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.80966, ""lng"":35.36987}",,node
+locations:isr_c_0077,"Buqei'a",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.97747, ""lng"":35.33345}",,node
+locations:isr_c_0078,Burgata,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.32635, ""lng"":34.96236}",,node
+locations:isr_c_0079,"Bustan HaGalil",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.95119, ""lng"":35.08298}",,node
+locations:isr_c_0080,Caesarea,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.51888, ""lng"":34.90459}",,node
+locations:isr_c_0081,Dabburiya,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.69256, ""lng"":35.37123}",,node
+locations:isr_c_0082,"Daliyat al Karmel",,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.69383, ""lng"":35.04686}",,node
+locations:isr_c_0083,"Deir el Asad",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.93598, ""lng"":35.26998}",,node
+locations:isr_c_0084,"Deir Hanna",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.86196, ""lng"":35.36365}",,node
+locations:isr_c_0085,Dimona,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.07079, ""lng"":35.03269}",,node
+locations:isr_c_0086,Drijat,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.30069, ""lng"":35.07632}",,node
+locations:isr_c_0087,Dvira,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.41222, ""lng"":34.8254}",,node
+locations:isr_c_0088,"'Eilabun",,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.83693, ""lng"":35.40029}",,node
+locations:isr_c_0089,Eilat,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":29.55805, ""lng"":34.94821}",,node
+locations:isr_c_0090,"'Ein Mahil",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.72304, ""lng"":35.35303}",,node
+locations:isr_c_0091,"'Ein Naquba",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.79366, ""lng"":35.12064}",,node
+locations:isr_c_0092,"'Ein Quniya",,[isr],"[isr,isr_a1_1,isr_a2_03]",,"{""lat"":33.23752, ""lng"":35.73131}",,node
+locations:isr_c_0093,"'Ein Rafa",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.7902, ""lng"":35.11528}",,node
+locations:isr_c_0094,"Ein Sarid",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.27413, ""lng"":34.93408}",,node
+locations:isr_c_0095,"Ein Vered",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.26667, ""lng"":34.93333}",,node
+locations:isr_c_0096,"El Fureidis",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.59812, ""lng"":34.95153}",,node
+locations:isr_c_0097,"El Ghajar",,[isr],"[isr,isr_a1_1,isr_a2_03]",,"{""lat"":33.27115, ""lng"":35.62288}",,node
+locations:isr_c_0098,"El Mazra`a",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.98338, ""lng"":35.09837}",,node
+locations:isr_c_0099,"El'ad",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.04984, ""lng"":34.95382}",,node
+locations:isr_c_0100,"Elishama'",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.15208, ""lng"":34.92827}",,node
+locations:isr_c_0101,Elon,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.06365, ""lng"":35.22009}",,node
+locations:isr_c_0102,Elyakhin,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.40793, ""lng"":34.92433}",,node
+locations:isr_c_0103,"'En Ayyala",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.62899, ""lng"":34.94483}",,node
+locations:isr_c_0104,"En Boqeq",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.19941, ""lng"":35.36253}",,node
+locations:isr_c_0105,"'En Dor",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.65614, ""lng"":35.41703}",,node
+locations:isr_c_0106,"'En HaMifraz",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.90308, ""lng"":35.09619}",,node
+locations:isr_c_0107,"'En Ya'aqov",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.00977, ""lng"":35.22982}",,node
+locations:isr_c_0108,"Er Reina",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.72339, ""lng"":35.31622}",,node
+locations:isr_c_0109,"Esh Sheikh Dannun",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.9941, ""lng"":35.14805}",,node
+locations:isr_c_0110,"Eshta'ol",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.78072, ""lng"":35.00994}",,node
+locations:isr_c_0111,"Et Taiyiba",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.26616, ""lng"":35.00893}",,node
+locations:isr_c_0112,"Et Tira",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.2341, ""lng"":34.95023}",,node
+locations:isr_c_0113,"Even Shemu'el",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.57641, ""lng"":34.76342}",,node
+locations:isr_c_0114,"Even Yehuda",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.26959, ""lng"":34.88759}",,node
+locations:isr_c_0115,Fassuta,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.04895, ""lng"":35.30893}",,node
+locations:isr_c_0116,Fiq,,[isr],"[isr,isr_a1_1,isr_a2_03]",,"{""lat"":32.77935, ""lng"":35.70032}",,node
+locations:isr_c_0117,"Gan Ner",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.53106, ""lng"":35.3377}",,node
+locations:isr_c_0118,"Gan Yavne",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.78737, ""lng"":34.70659}",,node
+locations:isr_c_0119,"Ganei Tikva",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.05971, ""lng"":34.8732}",,node
+locations:isr_c_0120,Gedera,,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.81456, ""lng"":34.77998}",,node
+locations:isr_c_0121,GesherHaZiv,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.04039, ""lng"":35.11065}",,node
+locations:isr_c_0122,"Geva' Karmel",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.66002, ""lng"":34.94874}",,node
+locations:isr_c_0123,Gilat,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.3276, ""lng"":34.65202}",,node
+locations:isr_c_0124,Gilon,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.90261, ""lng"":35.23452}",,node
+locations:isr_c_0125,Gimzo,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.92846, ""lng"":34.94154}",,node
+locations:isr_c_0126,"Giv'at Avni",,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.77682, ""lng"":35.43747}",,node
+locations:isr_c_0127,"Giv'at Brenner",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.86684, ""lng"":34.80097}",,node
+locations:isr_c_0128,"Giv'at Ela",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.72377, ""lng"":35.24469}",,node
+locations:isr_c_0129,"Giv'at Hayyim Ihud",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.39775, ""lng"":34.93213}",,node
+locations:isr_c_0130,"Giv'at Hayyim Me'uhad",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.39171, ""lng"":34.93115}",,node
+locations:isr_c_0131,"Giv'at Shmuel",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.07817, ""lng"":34.84858}",,node
+locations:isr_c_0132,"Giv'at Ye'arim",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.78653, ""lng"":35.09182}",,node
+locations:isr_c_0133,Givatayim,,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.07225, ""lng"":34.81253}",,node
+locations:isr_c_0134,"Giv'ati",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.733, ""lng"":34.67995}",,node
+locations:isr_c_0135,"Giv'ot Bar",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.3565, ""lng"":34.75525}",,node
+locations:isr_c_0136,Hadera,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.44192, ""lng"":34.9039}",,node
+locations:isr_c_0137,Hagor,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.13932, ""lng"":34.94695}",,node
+locations:isr_c_0138,Haifa,,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.81841, ""lng"":34.9885}",,node
+locations:isr_c_0139,Hamam,,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.82955, ""lng"":35.49195}",,node
+locations:isr_c_0140,Harduf,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.76342, ""lng"":35.17469}",,node
+locations:isr_c_0141,Harish,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.46096, ""lng"":35.0435}",,node
+locations:isr_c_0142,Haspin,,[isr],"[isr,isr_a1_1,isr_a2_03]",,"{""lat"":32.84571, ""lng"":35.79295}",,node
+locations:isr_c_0143,HatsorHaGelilit,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":32.98049, ""lng"":35.54243}",,node
+locations:isr_c_0144,"HaZore'im",,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.74707, ""lng"":35.50274}",,node
+locations:isr_c_0145,Hemed,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":32.0159, ""lng"":34.84284}",,node
+locations:isr_c_0146,Herut,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.24018, ""lng"":34.91583}",,node
+locations:isr_c_0147,Herzliya,,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.16627, ""lng"":34.82536}",,node
+locations:isr_c_0148,"Herzliya Pituah",,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.17409, ""lng"":34.8028}",,node
+locations:isr_c_0149,"Hod HaSharon",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.15934, ""lng"":34.8932}",,node
+locations:isr_c_0150,Holon,,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.01034, ""lng"":34.77918}",,node
+locations:isr_c_0151,Hosen,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.99824, ""lng"":35.29807}",,node
+locations:isr_c_0152,"Hosha'ya",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.75809, ""lng"":35.2948}",,node
+locations:isr_c_0153,Hulda,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.83176, ""lng"":34.88231}",,node
+locations:isr_c_0154,Hura,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.30084, ""lng"":34.93606}",,node
+locations:isr_c_0155,Hurfeish,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.01711, ""lng"":35.34835}",,node
+locations:isr_c_0156,"I'billin",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.82233, ""lng"":35.19271}",,node
+locations:isr_c_0157,Ibtin,,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.7615, ""lng"":35.11402}",,node
+locations:isr_c_0158,Iksal,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.68164, ""lng"":35.32365}",,node
+locations:isr_c_0159,"'Ilut",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.71639, ""lng"":35.25944}",,node
+locations:isr_c_0160,"'Isfiya",,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.71836, ""lng"":35.06509}",,node
+locations:isr_c_0161,Jaffa,,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.05043, ""lng"":34.75224}",,node
+locations:isr_c_0162,Jaljulya,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.1547, ""lng"":34.95372}",,node
+locations:isr_c_0163,Jatt,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.39843, ""lng"":35.03933}",,node
+locations:isr_c_0164,Jerusalem,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.76904, ""lng"":35.21633}",,node
+locations:isr_c_0165,Jish,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.02216, ""lng"":35.44694}",,node
+locations:isr_c_0166,"Jisr ez Zarqa",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.53684, ""lng"":34.9127}",,node
+locations:isr_c_0167,"Judeida Makr",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.9282, ""lng"":35.15705}",,node
+locations:isr_c_0168,Julis,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.94267, ""lng"":35.18278}",,node
+locations:isr_c_0169,"Ka'abiyya",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.74985, ""lng"":35.18361}",,node
+locations:isr_c_0170,Kabri,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.0209, ""lng"":35.14835}",,node
+locations:isr_c_0171,Kabul,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.86856, ""lng"":35.21171}",,node
+locations:isr_c_0172,"Kadima Zoran",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.27782, ""lng"":34.9194}",,node
+locations:isr_c_0173,"Kafr Bara",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.13136, ""lng"":34.97079}",,node
+locations:isr_c_0174,"Kafr Kamma",,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.72129, ""lng"":35.44122}",,node
+locations:isr_c_0175,"Kafr Kanna",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.7466, ""lng"":35.34242}",,node
+locations:isr_c_0176,"Kafr Manda",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.81034, ""lng"":35.26009}",,node
+locations:isr_c_0177,"Kafr Misr",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.64521, ""lng"":35.42147}",,node
+locations:isr_c_0178,"Kafr Qari'",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.50666, ""lng"":35.05392}",,node
+locations:isr_c_0179,"Kafr Qasim",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.11406, ""lng"":34.97624}",,node
+locations:isr_c_0180,Kammana,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.91366, ""lng"":35.35991}",,node
+locations:isr_c_0181,Kammon,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.90891, ""lng"":35.36075}",,node
+locations:isr_c_0182,"Karme Yosef",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.84833, ""lng"":34.92024}",,node
+locations:isr_c_0183,"Karmi'el",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.91708, ""lng"":35.30501}",,node
+locations:isr_c_0184,Katzrin,,[isr],"[isr,isr_a1_1,isr_a2_03]",,"{""lat"":32.99194, ""lng"":35.69139}",,node
+locations:isr_c_0185,"Kaukab Abu el Hija",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.83155, ""lng"":35.24848}",,node
+locations:isr_c_0186,"Kefar HaRo'e",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.39245, ""lng"":34.91163}",,node
+locations:isr_c_0187,"Kefar Sirkin",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.07804, ""lng"":34.92261}",,node
+locations:isr_c_0188,"Kefar Vitqin",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.38036, ""lng"":34.87537}",,node
+locations:isr_c_0189,"Kefar Warburg",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.71945, ""lng"":34.72405}",,node
+locations:isr_c_0190,"Kfar Hess",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.24714, ""lng"":34.93562}",,node
+locations:isr_c_0191,"Kfar Saba",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.175, ""lng"":34.90694}",,node
+locations:isr_c_0192,"Kfar Yasif",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.95451, ""lng"":35.1623}",,node
+locations:isr_c_0193,KfarBilu,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.87702, ""lng"":34.82108}",,node
+locations:isr_c_0194,KfarHabad,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.98793, ""lng"":34.8516}",,node
+locations:isr_c_0195,KfarHittim,,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.79961, ""lng"":35.50276}",,node
+locations:isr_c_0196,KfarMenahem,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.73139, ""lng"":34.83547}",,node
+locations:isr_c_0197,KfarNetter,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.273, ""lng"":34.87349}",,node
+locations:isr_c_0198,KfarPines,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.48372, ""lng"":35.00294}",,node
+locations:isr_c_0199,KfarRoshHaNiqra,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.08607, ""lng"":35.11348}",,node
+locations:isr_c_0200,KfarShmaryahu,,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.18529, ""lng"":34.82082}",,node
+locations:isr_c_0201,KfarTavor,,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.68655, ""lng"":35.42118}",,node
+locations:isr_c_0202,KfarVeradim,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.99385, ""lng"":35.27793}",,node
+locations:isr_c_0203,KfarYona,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.31669, ""lng"":34.93507}",,node
+locations:isr_c_0204,"Khirbat Abu Tulul",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.14229, ""lng"":34.91424}",,node
+locations:isr_c_0205,"Kiryat Gat",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.60998, ""lng"":34.76422}",,node
+locations:isr_c_0206,"Kiryat Ono",,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.06124, ""lng"":34.85618}",,node
+locations:isr_c_0207,"Kisra - Sume'a",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.97262, ""lng"":35.29877}",,node
+locations:isr_c_0208,"Kokhav Michael Sobell",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.62804, ""lng"":34.66904}",,node
+locations:isr_c_0209,"Kokhav Ya'ir",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.22623, ""lng"":35.00222}",,node
+locations:isr_c_0210,Kuseifa,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.24535, ""lng"":35.0931}",,node
+locations:isr_c_0211,"Lahavot Haviva",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.39517, ""lng"":35.00977}",,node
+locations:isr_c_0212,Laqiyya,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.3185, ""lng"":34.8589}",,node
+locations:isr_c_0213,Lehavim,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.37284, ""lng"":34.81619}",,node
+locations:isr_c_0214,"Li On",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.67744, ""lng"":34.93464}",,node
+locations:isr_c_0215,Lod,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.9467, ""lng"":34.8903}",,node
+locations:isr_c_0216,"Ma'agan Mikha'el",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.55549, ""lng"":34.91638}",,node
+locations:isr_c_0217,"Maale Iron",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.55382, ""lng"":35.18412}",,node
+locations:isr_c_0218,"maalot Tarshiha",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.01667, ""lng"":35.26667}",,node
+locations:isr_c_0219,"Mabbu'im",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.44965, ""lng"":34.65477}",,node
+locations:isr_c_0220,"Ma'galim",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.39688, ""lng"":34.5995}",,node
+locations:isr_c_0221,Maggal,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.38506, ""lng"":35.0368}",,node
+locations:isr_c_0222,Maghar,,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.88984, ""lng"":35.40703}",,node
+locations:isr_c_0223,"Majd el Kurum",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.92186, ""lng"":35.25568}",,node
+locations:isr_c_0224,"Majdal Shams",,[isr],"[isr,isr_a1_1,isr_a2_03]",,"{""lat"":33.27029, ""lng"":35.7716}",,node
+locations:isr_c_0225,"Manshiyet Zabda",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.70638, ""lng"":35.19354}",,node
+locations:isr_c_0226,"Ma'or",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.42306, ""lng"":35.00513}",,node
+locations:isr_c_0227,"Mash'en",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.65791, ""lng"":34.62309}",,node
+locations:isr_c_0228,Matan,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.15856, ""lng"":34.97413}",,node
+locations:isr_c_0229,Matsliah,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.90669, ""lng"":34.87134}",,node
+locations:isr_c_0230,"Mazkeret Batya",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.85357, ""lng"":34.84646}",,node
+locations:isr_c_0231,Mazor,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.05115, ""lng"":34.92291}",,node
+locations:isr_c_0232,Mazzuva,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.06375, ""lng"":35.15761}",,node
+locations:isr_c_0233,Mefallesim,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.50125, ""lng"":34.5637}",,node
+locations:isr_c_0234,Megadim,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.72815, ""lng"":34.95631}",,node
+locations:isr_c_0235,Meisir,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.44445, ""lng"":35.04134}",,node
+locations:isr_c_0236,Meitar,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.32726, ""lng"":34.93855}",,node
+locations:isr_c_0237,Menahemya,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.66662, ""lng"":35.555}",,node
+locations:isr_c_0238,"Merkaz Shapira",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.69874, ""lng"":34.70895}",,node
+locations:isr_c_0239,MesillatTsiyyon,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.802, ""lng"":35.01095}",,node
+locations:isr_c_0240,Metulla,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.27918, ""lng"":35.5795}",,node
+locations:isr_c_0241,MevasseretTsiyyon,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.80186, ""lng"":35.15072}",,node
+locations:isr_c_0242,Mi`ilya,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.02781, ""lng"":35.25658}",,node
+locations:isr_c_0243,"Midreshet Ben-Gurion",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":30.85154, ""lng"":34.7834}",,node
+locations:isr_c_0244,Migdal,,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.8392, ""lng"":35.50145}",,node
+locations:isr_c_0245,"Migdal Ha'Emeq",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.67597, ""lng"":35.23986}",,node
+locations:isr_c_0246,Mikhmoret,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.40535, ""lng"":34.87091}",,node
+locations:isr_c_0247,"Mishmar Ha'Emeq",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.61045, ""lng"":35.14227}",,node
+locations:isr_c_0248,"Mishmar HaNegev",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.36416, ""lng"":34.7187}",,node
+locations:isr_c_0249,Mishmarot,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.48718, ""lng"":34.98324}",,node
+locations:isr_c_0250,Mishmeret,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.22818, ""lng"":34.91835}",,node
+locations:isr_c_0251,MitspeAviv,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.83907, ""lng"":35.19921}",,node
+locations:isr_c_0252,MitspeNetofa,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.80287, ""lng"":35.38291}",,node
+locations:isr_c_0253,"Mitzpe Ramon",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":30.60944, ""lng"":34.80111}",,node
+locations:isr_c_0254,"Modi'in Makkabbim Re'ut",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.89385, ""lng"":35.01504}",,node
+locations:isr_c_0255,Moledet,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.58613, ""lng"":35.44201}",,node
+locations:isr_c_0256,Moreshet,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.82859, ""lng"":35.23466}",,node
+locations:isr_c_0257,Motsa`Illit,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.79357, ""lng"":35.15776}",,node
+locations:isr_c_0258,Muqeibila,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.51424, ""lng"":35.29617}",,node
+locations:isr_c_0259,Musmus,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.54358, ""lng"":35.15619}",,node
+locations:isr_c_0260,"Na'an",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.88282, ""lng"":34.85832}",,node
+locations:isr_c_0261,Nahariyya,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.00892, ""lng"":35.09814}",,node
+locations:isr_c_0262,Nahf,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.93444, ""lng"":35.31679}",,node
+locations:isr_c_0263,"Na'ura",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.61403, ""lng"":35.39168}",,node
+locations:isr_c_0264,Nazareth,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.70056, ""lng"":35.29722}",,node
+locations:isr_c_0265,"Nazerat 'Illit",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.70816, ""lng"":35.32469}",,node
+locations:isr_c_0266,Nehalim,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.06012, ""lng"":34.91069}",,node
+locations:isr_c_0267,Nehora,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.62276, ""lng"":34.70424}",,node
+locations:isr_c_0268,Nehusha,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.63064, ""lng"":34.9531}",,node
+locations:isr_c_0269,Nein,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.63063, ""lng"":35.34885}",,node
+locations:isr_c_0270,"Nes Harim",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.74547, ""lng"":35.0574}",,node
+locations:isr_c_0271,Nesher,,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.76622, ""lng"":35.04425}",,node
+locations:isr_c_0272,"Ness Ziona",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.92933, ""lng"":34.79868}",,node
+locations:isr_c_0273,Netanya,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.33291, ""lng"":34.85992}",,node
+locations:isr_c_0274,Netivot,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.42305, ""lng"":34.58911}",,node
+locations:isr_c_0275,NevveYamin,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.17217, ""lng"":34.9393}",,node
+locations:isr_c_0276,NevveYaraq,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.13247, ""lng"":34.92447}",,node
+locations:isr_c_0277,"Nir Gallim",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.82542, ""lng"":34.68282}",,node
+locations:isr_c_0278,NirTsevi,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.95291, ""lng"":34.86408}",,node
+locations:isr_c_0279,Nizzan,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.73854, ""lng"":34.62985}",,node
+locations:isr_c_0280,"Nizzane 'Oz",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.306, ""lng"":35.00374}",,node
+locations:isr_c_0281,"Nof Ayalon",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.87111, ""lng"":34.99081}",,node
+locations:isr_c_0282,Nofit,,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.76226, ""lng"":35.1477}",,node
+locations:isr_c_0283,Nordiyya,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.3147, ""lng"":34.89617}",,node
+locations:isr_c_0284,Ofaqim,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.3141, ""lng"":34.62025}",,node
+locations:isr_c_0285,"'Olesh",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.33199, ""lng"":34.98558}",,node
+locations:isr_c_0286,"'Omer",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.26489, ""lng"":34.84766}",,node
+locations:isr_c_0287,"Or Akiva",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.5064, ""lng"":34.92087}",,node
+locations:isr_c_0288,"Or Yehuda",,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.02923, ""lng"":34.85788}",,node
+locations:isr_c_0289,Ora,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.75519, ""lng"":35.15613}",,node
+locations:isr_c_0290,Pardesiyya,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.30577, ""lng"":34.90911}",,node
+locations:isr_c_0291,"Petah Tiqva",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.08707, ""lng"":34.88747}",,node
+locations:isr_c_0292,"Poria Illit",,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.7319, ""lng"":35.54635}",,node
+locations:isr_c_0293,Poriyya,,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.74311, ""lng"":35.53816}",,node
+locations:isr_c_0294,Qalansuwa,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.28493, ""lng"":34.98106}",,node
+locations:isr_c_0295,Qidron,,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.81405, ""lng"":34.79714}",,node
+locations:isr_c_0296,"Qiryat Ata",,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.81149, ""lng"":35.11323}",,node
+locations:isr_c_0297,"Qiryat Bialik",,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.8275, ""lng"":35.08583}",,node
+locations:isr_c_0298,"Qiryat 'Eqron",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.86119, ""lng"":34.82275}",,node
+locations:isr_c_0299,"Qiryat Mal'akhi",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.72888, ""lng"":34.74632}",,node
+locations:isr_c_0300,"Qiryat Tiv'on",,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.71618, ""lng"":35.12494}",,node
+locations:isr_c_0301,"Qiryat Yam",,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.84966, ""lng"":35.06973}",,node
+locations:isr_c_0302,"Qiryat Ye'arim",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.81144, ""lng"":35.10571}",,node
+locations:isr_c_0303,QiryatMotsqin,,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.83706, ""lng"":35.0776}",,node
+locations:isr_c_0304,QiryatShmona,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.20733, ""lng"":35.57212}",,node
+locations:isr_c_0305,"Ra'anana",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.1836, ""lng"":34.87386}",,node
+locations:isr_c_0306,Rahat,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.39547, ""lng"":34.75699}",,node
+locations:isr_c_0307,Rama,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.93844, ""lng"":35.3675}",,node
+locations:isr_c_0308,"Ramat Gan",,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.08227, ""lng"":34.81065}",,node
+locations:isr_c_0309,"Ramat HaKovesh",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.21768, ""lng"":34.93815}",,node
+locations:isr_c_0310,"Ramat HaSharon",,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.14613, ""lng"":34.8394}",,node
+locations:isr_c_0311,"Ramat HaShofet",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.61102, ""lng"":35.09472}",,node
+locations:isr_c_0312,"Ramat Yishay",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.70444, ""lng"":35.1707}",,node
+locations:isr_c_0313,"Ramat Yohanan",,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.79308, ""lng"":35.12226}",,node
+locations:isr_c_0314,Ramla,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.92923, ""lng"":34.86563}",,node
+locations:isr_c_0315,"Ramot Menashe",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.59784, ""lng"":35.05656}",,node
+locations:isr_c_0316,Raqqefet,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.85744, ""lng"":35.26142}",,node
+locations:isr_c_0317,Regba,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.97721, ""lng"":35.09864}",,node
+locations:isr_c_0318,Rehovot,,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.89421, ""lng"":34.81199}",,node
+locations:isr_c_0319,Rekhasim,,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.74907, ""lng"":35.09901}",,node
+locations:isr_c_0320,Reshafim,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.48126, ""lng"":35.4762}",,node
+locations:isr_c_0321,Revivim,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.04395, ""lng"":34.72183}",,node
+locations:isr_c_0322,Rihaniya,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.04904, ""lng"":35.48815}",,node
+locations:isr_c_0323,Rinnatya,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.04428, ""lng"":34.9276}",,node
+locations:isr_c_0324,"Rishon LeTsiyyon",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.97102, ""lng"":34.78939}",,node
+locations:isr_c_0325,Rishpon,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.20254, ""lng"":34.82322}",,node
+locations:isr_c_0326,"Rosh Ha'Ayin",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.09556, ""lng"":34.95664}",,node
+locations:isr_c_0327,"Rosh Pinna",,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":32.96894, ""lng"":35.54258}",,node
+locations:isr_c_0328,"Rumat Heib",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.77802, ""lng"":35.30571}",,node
+locations:isr_c_0329,Rummana,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.78783, ""lng"":35.31091}",,node
+locations:isr_c_0330,Safed,,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":32.96465, ""lng"":35.496}",,node
+locations:isr_c_0331,Sajur,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.94266, ""lng"":35.34136}",,node
+locations:isr_c_0332,Sakhnin,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.86422, ""lng"":35.29707}",,node
+locations:isr_c_0333,Sallama,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.89443, ""lng"":35.36931}",,node
+locations:isr_c_0334,Sandala,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.52234, ""lng"":35.32325}",,node
+locations:isr_c_0335,Savyon,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.04966, ""lng"":34.8777}",,node
+locations:isr_c_0336,"Sde Hemed",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.16043, ""lng"":34.94347}",,node
+locations:isr_c_0337,"Sde Nehemya",,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.18756, ""lng"":35.62235}",,node
+locations:isr_c_0338,"Sde 'Uziyyahu",,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.75, ""lng"":34.68333}",,node
+locations:isr_c_0339,"Sde Warburg",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.20361, ""lng"":34.90722}",,node
+locations:isr_c_0340,"Sde Ya'aqov",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.69, ""lng"":35.13861}",,node
+locations:isr_c_0341,Sderot,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.525, ""lng"":34.59693}",,node
+locations:isr_c_0342,"Sdot Yam",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.49213, ""lng"":34.89224}",,node
+locations:isr_c_0343,Segev,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.86602, ""lng"":35.25189}",,node
+locations:isr_c_0344,"Segev Shalom",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.19918, ""lng"":34.83956}",,node
+locations:isr_c_0345,"Sha'alvim",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.86996, ""lng"":34.98722}",,node
+locations:isr_c_0346,"Sha'ar Efrayim",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.29067, ""lng"":34.9984}",,node
+locations:isr_c_0347,"Sha'av",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.88943, ""lng"":35.24093}",,node
+locations:isr_c_0348,ShaveTsiyyon,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.98098, ""lng"":35.08331}",,node
+locations:isr_c_0349,"Shefar'am",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.80583, ""lng"":35.16895}",,node
+locations:isr_c_0350,Shefayim,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.21743, ""lng"":34.82454}",,node
+locations:isr_c_0351,Shibli,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.69464, ""lng"":35.39252}",,node
+locations:isr_c_0352,"Shibli-Umm al-Ghanam",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.68395, ""lng"":35.39621}",,node
+locations:isr_c_0353,Shimshit,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.73137, ""lng"":35.24409}",,node
+locations:isr_c_0354,Shlomi,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":33.07216, ""lng"":35.14452}",,node
+locations:isr_c_0355,Shoham,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.99866, ""lng"":34.94559}",,node
+locations:isr_c_0356,Shoresh,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.79711, ""lng"":35.06525}",,node
+locations:isr_c_0357,Shtulim,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.77354, ""lng"":34.68388}",,node
+locations:isr_c_0358,Sitriyya,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.89238, ""lng"":34.8438}",,node
+locations:isr_c_0359,Sulam,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.60606, ""lng"":35.33408}",,node
+locations:isr_c_0360,Taiyiba,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.60415, ""lng"":35.44483}",,node
+locations:isr_c_0361,"Tal El",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.92825, ""lng"":35.18128}",,node
+locations:isr_c_0362,"Tal Shahar",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.80469, ""lng"":34.90111}",,node
+locations:isr_c_0363,Tamra,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.85301, ""lng"":35.1987}",,node
+locations:isr_c_0364,"Tel 'Adashim",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.65627, ""lng"":35.30216}",,node
+locations:isr_c_0365,"Tel Aviv",,[isr],"[isr,isr_a1_2,isr_a2_14]",,"{""lat"":32.08088, ""lng"":34.78057}",,node
+locations:isr_c_0366,"Tel Mond",,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.24995, ""lng"":34.91737}",,node
+locations:isr_c_0367,"Tel Qatsir",,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.70545, ""lng"":35.61761}",,node
+locations:isr_c_0368,"Tel Sheva'",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.24864, ""lng"":34.86007}",,node
+locations:isr_c_0369,TelYitshaq,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.25327, ""lng"":34.87034}",,node
+locations:isr_c_0370,Tiberias,,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.79221, ""lng"":35.53124}",,node
+locations:isr_c_0371,Tifrah,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.32657, ""lng"":34.67689}",,node
+locations:isr_c_0372,Timrat,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.70302, ""lng"":35.22359}",,node
+locations:isr_c_0373,"Tirabin al-Sana",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.34479, ""lng"":34.73867}",,node
+locations:isr_c_0374,"Tirat Karmel",,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.76021, ""lng"":34.97183}",,node
+locations:isr_c_0375,"Tirat Yehuda",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.01392, ""lng"":34.9342}",,node
+locations:isr_c_0376,Tselafon,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.80462, ""lng"":34.9321}",,node
+locations:isr_c_0377,Tsofit,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.19423, ""lng"":34.91957}",,node
+locations:isr_c_0378,Tsrufa,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.64824, ""lng"":34.94991}",,node
+locations:isr_c_0379,"Tsur Itshak",,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.24047, ""lng"":34.99788}",,node
+locations:isr_c_0380,TsurHadassa,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.71912, ""lng"":35.09708}",,node
+locations:isr_c_0381,TsurMoshe,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.29819, ""lng"":34.91313}",,node
+locations:isr_c_0382,"Tuba Zangariya",,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":32.96606, ""lng"":35.59304}",,node
+locations:isr_c_0383,Udim,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.26496, ""lng"":34.84549}",,node
+locations:isr_c_0384,"Umm Batin",,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":31.27735, ""lng"":34.88246}",,node
+locations:isr_c_0385,"Umm el Fahm",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.51725, ""lng"":35.15349}",,node
+locations:isr_c_0386,"Umm el Qutuf",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.46718, ""lng"":35.05811}",,node
+locations:isr_c_0387,"'Uzeir",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.79212, ""lng"":35.32984}",,node
+locations:isr_c_0388,"West Jerusalem",,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.78199, ""lng"":35.21961}",,node
+locations:isr_c_0389,"Yad Binyamin",,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.7974, ""lng"":34.82083}",,node
+locations:isr_c_0390,"Yad Rambam",,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.89997, ""lng"":34.90027}",,node
+locations:isr_c_0391,Yafa,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.68923, ""lng"":35.27832}",,node
+locations:isr_c_0392,Yagur,,[isr],"[isr,isr_a1_3,isr_a2_05]",,"{""lat"":32.7421, ""lng"":35.0774}",,node
+locations:isr_c_0393,"Yanuah Jat",,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.9798, ""lng"":35.23806}",,node
+locations:isr_c_0394,Yanuh-Jat,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.98515, ""lng"":35.2491}",,node
+locations:isr_c_0395,Yarhiv,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.15239, ""lng"":34.9679}",,node
+locations:isr_c_0396,Yashresh,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.91481, ""lng"":34.84911}",,node
+locations:isr_c_0397,Yavne,,[isr],"[isr,isr_a1_5,isr_a2_11]",,"{""lat"":31.87808, ""lng"":34.73983}",,node
+locations:isr_c_0398,"Yavne'el",,[isr],"[isr,isr_a1_1,isr_a2_02]",,"{""lat"":32.70619, ""lng"":35.50435}",,node
+locations:isr_c_0399,Yehud,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.03317, ""lng"":34.89091}",,node
+locations:isr_c_0400,Yehud-Monosson,,[isr],"[isr,isr_a1_5,isr_a2_08]",,"{""lat"":32.0284, ""lng"":34.8796}",,node
+locations:isr_c_0401,Yeroham,,[isr],"[isr,isr_a1_4,isr_a2_07]",,"{""lat"":30.98822, ""lng"":34.93176}",,node
+locations:isr_c_0402,"Yesud HaMa'ala",,[isr],"[isr,isr_a1_1,isr_a2_01]",,"{""lat"":33.0592, ""lng"":35.61033}",,node
+locations:isr_c_0403,"Yif'at",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.6775, ""lng"":35.22333}",,node
+locations:isr_c_0404,Yinnon,,[isr],"[isr,isr_a1_4,isr_a2_06]",,"{""lat"":31.74199, ""lng"":34.78229}",,node
+locations:isr_c_0405,Yirka,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.95435, ""lng"":35.21197}",,node
+locations:isr_c_0406,Yoqneam,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.65497, ""lng"":35.11381}",,node
+locations:isr_c_0407,"Yoqne'am 'Illit",,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.65385, ""lng"":35.10382}",,node
+locations:isr_c_0408,Yuvallim,,[isr],"[isr,isr_a1_1,isr_a2_13]",,"{""lat"":32.87756, ""lng"":35.27031}",,node
+locations:isr_c_0409,Zalafa,,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.54805, ""lng"":35.1852}",,node
+locations:isr_c_0410,Zarzir,,[isr],"[isr,isr_a1_1,isr_a2_12]",,"{""lat"":32.72754, ""lng"":35.21381}",,node
+locations:isr_c_0411,Zekharya,,[isr],"[isr,isr_a1_6,isr_a2_15]",,"{""lat"":31.70927, ""lng"":34.94488}",,node
+locations:isr_c_0412,Zemer,,[isr],"[isr,isr_a1_5,isr_a2_09]",,"{""lat"":32.36658, ""lng"":35.03312}",,node
+locations:isr_c_0413,Zetan,,[isr],"[isr,isr_a1_5,isr_a2_10]",,"{""lat"":31.97534, ""lng"":34.88928}",,node
+locations:isr_c_0414,"Zikhron Ya'aqov",,[isr],"[isr,isr_a1_3,isr_a2_04]",,"{""lat"":32.56645, ""lng"":34.95628}",,node
+"locations:israel-unknown-location","Israel - unknown location","Israël - lieu inconnu",[isr],[isr],,"{""lat"":32.047, ""lng"":34.84}",,node

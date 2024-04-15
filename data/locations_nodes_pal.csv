@@ -1,0 +1,960 @@
+id,title,title_fr,slug,path,country,latlng,source,type
+"locations:-n-a-urban-sub-division-gaza","-N/A- urban sub-division-gaza","-N/A- urban sub-division-gaza",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.504, ""lng"":34.464}",INSO,node
+"locations:PAL-N1709553036607","-N/A- Location",,[pal],"[pal,pal_a1_1,pal_a2_14]",,"{""lat"":31.41945, ""lng"":34.349751}",INSO,node
+"locations:PALAd1710767292961",Adora,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.552863, ""lng"":35.017626}",INSO,node
+"locations:PALAl1709557944200","Al Shokat",,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.272721, ""lng"":34.319162}",INSO,node
+"locations:PALAl1709567409023","Alon Moreh",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.234172, ""lng"":35.331154}",INSO,node
+"locations:PALAl1709644329775","Al Mughraqa",,[pal],"[pal,pal_a1_1,pal_a2_14]",,"{""lat"":31.4687, ""lng"":34.4177}",INSO,node
+"locations:PALAl1709890562300","Al Mahatta",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.351994, ""lng"":34.310408}",INSO,node
+"locations:PALAl1709890938088","Al Kateebeh",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.361488, ""lng"":34.308311}",INSO,node
+"locations:PALAl1710769797221","Al Shati Camp",,[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.537396, ""lng"":34.45364}",INSO,node
+"locations:PALAl1710770132429","Al Kuwaiti Square",,[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.479794, ""lng"":34.442332}",INSO,node
+"locations:PALAv1710160486632","Avnei Hefetz",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.285605, ""lng"":35.073731}",INSO,node
+"locations:PALBe1709642348788","Beit El",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.941135, ""lng"":35.222204}",INSO,node
+"locations:PALEf1710767845884",Efrat,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.653147, ""lng"":35.150057}",INSO,node
+"locations:PALGi1709905296102","Giv'at Ze'ev",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.859409, ""lng"":35.167039}",INSO,node
+"locations:PALGi1710167100712","Giv'at Asaf",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.911173, ""lng"":35.248074}",INSO,node
+"locations:PALGu1710172726938","Gush Etzion",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.654899, ""lng"":35.115168}",INSO,node
+"locations:PALHa1709555567549",Hamad,,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.386145, ""lng"":34.323872}",INSO,node
+"locations:PALHa1709906625913",Hamra,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.199618, ""lng"":35.434488}",INSO,node
+"locations:PALHo1710159848791",Homesh,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.309772, ""lng"":35.190215}",INSO,node
+"locations:PALIr1710256456700","Iraq at Tayah",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.217044, ""lng"":35.284473}",INSO,node
+"locations:PALKa1709203598127","Karmei Zur",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.609105, ""lng"":35.100819}",INSO,node
+"locations:PALKa1710159053351","Karnei Shomron",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.171619, ""lng"":35.096981}",INSO,node
+"locations:PALKh1710776584026","Khirbat Al Adas",,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.285163, ""lng"":34.271231}",INSO,node
+"locations:PALMa1709895086521","Ma'n",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.328904, ""lng"":34.316942}",INSO,node
+"locations:PALMa1710255227755","Massafer Yatta",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.379826, ""lng"":35.165448}",INSO,node
+"locations:PALNa1710773590527","Nabi Saleh",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.016374, ""lng"":35.124899}",INSO,node
+"locations:PALNo1710767605555",Nokdim,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.644837, ""lng"":35.244118}",INSO,node
+"locations:PALRa1710402999467","Rafah Crossing",,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.24846, ""lng"":34.25938}",INSO,node
+"locations:PALSh1709110060338","Shavei Shomron",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.263635, ""lng"":35.184959}",INSO,node
+"locations:PALSh1710173270648",Shiloh,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.053591, ""lng"":35.298548}",INSO,node
+"locations:PALZu1710159415070",Zufim,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.197922, ""lng"":35.0093}",INSO,node
+locations:ad-darraj,"Ad Darraj","Ad Darraj",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.516771, ""lng"":34.46469}",,node
+locations:an-naser,"An Naser","An Naser",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.532171, ""lng"":34.459293}",,node
+locations:as-sabra,"As Sabra","As Sabra",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.508487, ""lng"":34.450127}",,node
+locations:as-salam,As-Salam,As-Salam,[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.516255, ""lng"":34.497845}",,node
+"locations:ash-sheikh-'ijleen","Ash Sheikh 'Ijleen","Ash Sheikh 'Ijleen",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.50499, ""lng"":34.424788}",,node
+"locations:ash-sheikh-radwan","Ash Sheikh Radwan","Ash Sheikh Radwan",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.531524, ""lng"":34.470466}",,node
+"locations:ash-shuja'iyeh-ijdeedeh","Ash Shuja'iyeh - Ijdeedeh","Ash Shuja'iyeh - Ijdeedeh",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.500302, ""lng"":34.479204}",,node
+locations:at-tuffah,"At Tuffah","At Tuffah",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.513261, ""lng"":34.481969}",,node
+locations:at-turukman,"At Turukman","At Turukman",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.475844, ""lng"":34.471813}",,node
+"locations:at-turukman-ijdeedeh","At Turukman - Ijdeedeh","At Turukman - Ijdeedeh",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.491339, ""lng"":34.469042}",INSO,node
+locations:az-zaitoun,"Az Zaitoun","Az Zaitoun",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.488336, ""lng"":34.445504}",INSO,node
+locations:gaza,"Gaza City","Gaza City",[pal],"[pal,pal_a1_1,pal_a2_13]",,"{""lat"":34.44, ""lng"":31.519}",,
+locations:ijdeedeh,Ijdeedeh,Ijdeedeh,[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.498936, ""lng"":34.499185}",,node
+locations:northern-remal,"Northern Remal","Northern Remal",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.523868, ""lng"":34.449909}",,node
+locations:old-city,"Old City","Old City",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.505226, ""lng"":34.464924}",INSO,node
+locations:pal,Palestine,,[pal],[],,,,
+locations:pal_a1_1,"Gaza Strip",,[pal],[pal],,,,
+locations:pal_a1_2,"West Bank",,[pal],[pal],,,,
+locations:pal_a2_01,Jenin,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_02,Tubas,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_03,Tulkarm,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_04,Nablus,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_05,Qalqilya,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_06,Salfit,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_07,Ramallah,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_08,Jericho,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_09,Jerusalem,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_10,Bethlehem,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_11,Hebron,,[pal],"[pal,pal_a1_2]",,,,
+locations:pal_a2_12,"North Gaza",,[pal],"[pal,pal_a1_1]",,,,
+locations:pal_a2_13,Gaza,,[pal],"[pal,pal_a1_1]",,,,
+locations:pal_a2_14,"Deir Al-Balah",,[pal],"[pal,pal_a1_1]",,,,
+locations:pal_a2_15,"Khan Younis",,[pal],"[pal,pal_a1_1]",,,,
+locations:pal_a2_16,Rafah,,[pal],"[pal,pal_a1_1]",,,,
+locations:pal_c_0001,"An Najada",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4081091368, ""lng"":35.2123906298}",PCBS,node
+locations:pal_c_0002,Fuqeiqis,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4888731604, ""lng"":34.9868286991}",PCBS,node
+locations:pal_c_0003,"Al Buweib",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4646027865, ""lng"":35.1565437454}",PCBS,node
+locations:pal_c_0004,"Tura al Gharbiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4681740579, ""lng"":35.1536635529}",PCBS,node
+locations:pal_c_0005,"As Samu'",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3938165512, ""lng"":35.0663071748}","PCBS Tables",node
+locations:pal_c_0006,"Az Zubeidat",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.1727261921, ""lng"":35.5299043909}",PCBS,node
+locations:pal_c_0007,"Khirbet 'Atuf",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2626401448, ""lng"":35.4369683283}",PCBS,node
+locations:pal_c_0008,"Ash Shawawra",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.690407962, ""lng"":35.2716789228}","PCBS Tables",node
+locations:pal_c_0009,"Ar Ramadin",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3785143393, ""lng"":34.9143964123}",PCBS,node
+locations:pal_c_0010,"Anab al Kabir",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3977736182, ""lng"":34.9276036251}","PCBS Tables",node
+locations:pal_c_0011,"Khirbet Tawil ash Shih",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3898710859, ""lng"":35.2116849967}","PCBS Tables",node
+locations:pal_c_0012,"Al Burj",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4352437883, ""lng"":34.9169943422}",PCBS,node
+locations:pal_c_0013,Kurza,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4406659919, ""lng"":34.9990354456}","PCBS Tables",node
+locations:pal_c_0014,"Al Karmil",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4260411112, ""lng"":35.1315514754}","PCBS Tables",node
+locations:pal_c_0015,"Khallet Salih",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.419784601, ""lng"":35.1155475044}","PCBS Tables",node
+locations:pal_c_0016,"Adh Dhahiriya",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4151110972, ""lng"":34.97527686}",PCBS,node
+locations:pal_c_0017,"Khan Al Ahmar - Wadi As Sider",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.809077231, ""lng"":35.3435699792}","part of Al Ka'abina (TajBad)",node
+locations:pal_c_0018,"Umm Lasafa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4362200702, ""lng"":35.1563440455}",PCBS,node
+locations:pal_c_0019,"Al Majd",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.480675828, ""lng"":34.9521208532}","PCBS Tables",node
+locations:pal_c_0020,"Deir al 'Asal at Tahta",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4732513311, ""lng"":34.9449753596}","PCBS Tables",node
+locations:pal_c_0021,"Deir al 'Asal al Fauqa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4677033544, ""lng"":34.9384361233}",PCBS,node
+locations:pal_c_0022,"Beit ar Rush at Tahta",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4628593719, ""lng"":34.9364993565}","PCBS Tables",node
+locations:pal_c_0023,Sikka,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4914291375, ""lng"":34.9433356017}",PCBS,node
+locations:pal_c_0024,"Beit Mirsim",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4505818435, ""lng"":34.9176885948}",PCBS,node
+locations:pal_c_0025,"Khallet al 'Aqed",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.468491046, ""lng"":34.9865213801}","PCBS Tables",node
+locations:pal_c_0026,"Hadab al 'Alaqa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4544061811, ""lng"":34.9953852037}","PCBS Tables",node
+locations:pal_c_0027,"Wadi ash Shajina",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4695180525, ""lng"":35.0318739373}",PCBS,node
+locations:pal_c_0028,"Beit ar Rush al Fauqa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4510060649, ""lng"":34.9271883975}",PCBS,node
+locations:pal_c_0029,Karma,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4512691902, ""lng"":35.0272725102}",PCBS,node
+locations:pal_c_0030,Tarrama,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4805107964, ""lng"":35.0323459417}","PCBS Tables",node
+locations:pal_c_0031,"Hadab al Fawwar",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4771757964, ""lng"":35.0546172472}",PCBS,node
+locations:pal_c_0032,"Beit 'Amra",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4494036552, ""lng"":35.0482669568}",PCBS,node
+locations:pal_c_0033,Khursa,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4825734725, ""lng"":35.0173400132}","PCBS Tables",node
+locations:pal_c_0034,"Al Fawwar Camp",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4797629863, ""lng"":35.0643552529}","PCBS Tables",node
+locations:pal_c_0035,Qalqas,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4917234499, ""lng"":35.0951851871}",PCBS,node
+locations:pal_c_0036,"Al Heila",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4721064327, ""lng"":35.1082236411}","PCBS Tables",node
+locations:pal_c_0037,"Ar Rihiya",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4702737389, ""lng"":35.0787659331}","PCBS Tables",node
+locations:pal_c_0038,"Khallet Hajar Fauqa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4637552315, ""lng"":35.1646595367}","part of Al Buweib",node
+locations:pal_c_0039,"Khallet Hajar Tahta",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4568813055, ""lng"":35.165813145}","part of Al Buweib",node
+locations:pal_c_0040,"Al Ganoub",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5956850442, ""lng"":35.201664522}",VPP,node
+locations:pal_c_0041,"Khirbet al Kharaba",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3684153936, ""lng"":35.0888103983}","part of As Samu'",node
+locations:pal_c_0042,"Al Muntar",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7451621862, ""lng"":35.318235708}",VPP,node
+locations:pal_c_0043,"A Seefer",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3644105116, ""lng"":35.1136793333}",VPP,node
+locations:pal_c_0044,"Bir al Maskoob A",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8024977982, ""lng"":35.3140372258}","PCBS Tables",node
+locations:pal_c_0045,"Bir al Maskoob B",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8026178302, ""lng"":35.3088421905}","part of Al Ka'abina (TajBad)",node
+locations:pal_c_0046,"Wadi Sneysel",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8021277376, ""lng"":35.305816478}","part of Al Ka'abina (TajBad)",node
+locations:pal_c_0047,"Abu George Road Bedouins - Kassara",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8069186365, ""lng"":35.3088272647}","part of Al Ka'abina (TajBad)",node
+locations:pal_c_0048,"Khashem ad Daraj",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4292832996, ""lng"":35.2439953781}",PCBS,node
+locations:pal_c_0049,Wedadie,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3672557775, ""lng"":35.0084903844}","part of 'Arab al Fureijat",node
+locations:pal_c_0050,"Sateh al Bahr",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8063782154, ""lng"":35.3950203777}","part of An Nabi Musa",node
+locations:pal_c_0051,"Al Hathroura",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8163482225, ""lng"":35.3753407182}","part of An Nabi Musa",node
+locations:pal_c_0052,"Khirbet al Mkahhal",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4264478951, ""lng"":35.1402304507}","part of Imreiha",node
+locations:pal_c_0053,"Khirbet al-Hamaam",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4188787264, ""lng"":35.1278916787}","part of Imreiha",node
+locations:pal_c_0054,"Maghayer ad Deir",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8875588721, ""lng"":35.3216450174}","part of Badiw al Mu'arrajat",node
+locations:pal_c_0055,"Zatara al Kurshan",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6698219885, ""lng"":35.2844704798}",VPP,node
+locations:pal_c_0056,"Al Jwaya",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4240144597, ""lng"":35.1518332904}","part of Al Karmil",node
+locations:pal_c_0057,Osaileh,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3902979414, ""lng"":34.9235830462}",VPP,node
+locations:pal_c_0058,"Abo El-Henna",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.412126308, ""lng"":34.9090842042}","part of 'Anab al Kabir",node
+locations:pal_c_0059,"Ad Dawa",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1344899471, ""lng"":35.3883783084}","part of Ar Rajman",node
+locations:pal_c_0060,"Al Walayda",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.5604417806, ""lng"":35.2412737366}","part of Arab ar Rashayida",node
+locations:pal_c_0061,Firasin,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.424648306, ""lng"":35.1084590403}",VPP,node
+locations:pal_c_0062,"Al Matwi",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0832779775, ""lng"":35.1293385584}","part of Salfit",node
+locations:pal_c_0063,"Iraq al Sakhra",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0756433982, ""lng"":35.1364595961}",VPP,node
+locations:pal_c_0064,"Dar Abu Basal",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1109178728, ""lng"":35.1331084056}","part of Haris",node
+locations:pal_c_0065,Muhaajir,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0899791863, ""lng"":35.1607275025}","part of Salfit",node
+locations:pal_c_0066,"Deir Nidham Bedouins - Al Hossa",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0027560769, ""lng"":35.1023647851}","part of Deir Nidham",node
+locations:pal_c_0067,"Ein Qiniya Bedouins - Wadi ad Dulum",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9314910992, ""lng"":35.1584927097}","part of 'Ein Qiniya",node
+locations:pal_c_0068,"Wadi Salman",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8800079967, ""lng"":35.0882501272}","part of Kharbatha al Misbah",node
+locations:pal_c_0069,"Ras al Tin",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9896522626, ""lng"":35.3731020061}","part of Kafr Malik",node
+locations:pal_c_0070,"Wadi Shobash",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4056678322, ""lng"":35.3996292476}",VPP,node
+locations:pal_c_0071,"Umm al 'Obor",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2347099602, ""lng"":35.5477035322}",VPP,node
+locations:pal_c_0072,Lifjim,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.122709316, ""lng"":35.4073391504}",VPP,node
+locations:pal_c_0073,"Fasayil al Fauqa",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.0341750902, ""lng"":35.4358192671}","part of Fasayil",node
+locations:pal_c_0074,"Fasayil al Wusta",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.029869595, ""lng"":35.4414766473}",VPP,node
+locations:pal_c_0075,"Ras 'Ein al 'Auja",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.9448896827, ""lng"":35.403339111}",VPP,node
+locations:pal_c_0076,"Al Mu'arrajat East",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.9175745534, ""lng"":35.398770331}","part of Badiw al Mu'arrajat",node
+locations:pal_c_0077,"An Nuwei'ma Al-Fauqa Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8971616943, ""lng"":35.4287936532}","part of 'Ein ad Duyuk al Fauqa",node
+locations:pal_c_0078,"Ein el Qilt",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.835608717, ""lng"":35.3797417572}",VPP,node
+locations:pal_c_0079,"Al Qaffaf",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3949101288, ""lng"":35.4956616189}","part of Bardala",node
+locations:pal_c_0080,"As Simiya",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4108427839, ""lng"":35.0476789411}","part of As Samu'",node
+locations:pal_c_0081,Mak-hul,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2677766429, ""lng"":35.502690987}","part of Khirbet Humsa",node
+locations:pal_c_0082,"Marj Na'ja Herders",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.1757508508, ""lng"":35.5314634603}","part of Az Zubeidat",node
+locations:pal_c_0083,"An Nabi Samwil Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8361412633, ""lng"":35.1873174345}","part of An Nabi Samwil",node
+locations:pal_c_0084,"Az Za'ayyem Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7958514279, ""lng"":35.2686740795}",VPP,node
+locations:pal_c_0085,"Khirbet Samra",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2937740168, ""lng"":35.4917677412}","part of Khirbet Humsa",node
+locations:pal_c_0086,"Al Farisiya-Ihmayyer",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3574451585, ""lng"":35.5088402808}","part of Al Farisiya",node
+locations:pal_c_0087,"Abu Kbash",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2119921078, ""lng"":35.4405964601}","part of Furush Beit Dajan",node
+locations:pal_c_0088,"Wadi Beit Hanina Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8311154307, ""lng"":35.2004830883}","part of Beit Hanina al Balad",node
+locations:pal_c_0089,"Beit Iksa Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8335949172, ""lng"":35.1665124165}","part of Beit Iksa",node
+locations:pal_c_0090,"Jabal al Baba",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7743900918, ""lng"":35.2796811862}","part of Al 'Eizariya",node
+locations:pal_c_0091,"Wadi al Jimel",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7737614116, ""lng"":35.2851985617}","part of Al 'Eizariya",node
+locations:pal_c_0092,"Ma'azi Jaba'",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8605440599, ""lng"":35.2684047596}","part of Jaba'",node
+locations:pal_c_0093,"Khallet al Maghara",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8930869426, ""lng"":35.3124888305}",na,node
+locations:pal_c_0094,"Wadi as Seeq",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9011384165, ""lng"":35.3250354025}","part of Badiw al Mu'arrajat",node
+locations:pal_c_0095,Tublas,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.827797733, ""lng"":35.267842668}","part of Hizma",node
+locations:pal_c_0096,"North 'Anata Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8191765918, ""lng"":35.2706664125}","part of Anata",node
+locations:pal_c_0097,"South 'Anata Bedouins (Wa'ar al Beik)",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8058495449, ""lng"":35.2646237207}","part of Anata",node
+locations:pal_c_0098,"Abu Nuwar",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7617909985, ""lng"":35.2935100669}",PCBS,node
+locations:pal_c_0099,"Arab al Jahilin - al Jabal",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7593874521, ""lng"":35.2851052119}","part of 'Arab al Jahalin",node
+locations:pal_c_0100,"Deir Abu Masha'al Herders",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0044834008, ""lng"":35.0603374412}",VPP,node
+locations:pal_c_0101,"Abu Sultan",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1321783016, ""lng"":35.0612455488}",VPP,node
+locations:pal_c_0102,"Jabal Harasah",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7028187712, ""lng"":35.2430484513}","part of Beit Sahur",node
+locations:pal_c_0103,"Khan Al Ahmar - Abu al Helu",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.811778211, ""lng"":35.339065633}","part of Al Ka'abina (TajBad)",node
+locations:pal_c_0104,"South Al Jib Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8406455916, ""lng"":35.1817715796}",VPP,node
+locations:pal_c_0105,"khirbet Khamis",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7242783123, ""lng"":35.1965829172}",na,node
+locations:pal_c_0106,"Abu George Road Bedouins - Nkheila",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.813521179, ""lng"":35.2995334765}","part of Al Ka'abina (TajBad)",node
+locations:pal_c_0107,"Khan al Ahmar - Abu Falah",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8055490673, ""lng"":35.3364321441}","part of Al Ka'abina (TajBad)",node
+locations:pal_c_0108,"Ein ad Duyuk al Fauqa Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.896254552, ""lng"":35.419617645}","part of 'Ein ad Duyuk al Fauqa",node
+locations:pal_c_0109,"Ein Samiya",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9776382854, ""lng"":35.3412036442}","part of Kafr Malik",node
+locations:pal_c_0110,"Wadi Abu Hindi",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7588173165, ""lng"":35.3175676393}","part of 'Arab al Jahalin",node
+locations:pal_c_0111,"Khirbet Tell el Himma",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3701408145, ""lng"":35.4991838171}","part of Kardala",node
+locations:pal_c_0112,"Abu Shusheh Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.866289822, ""lng"":35.2541024936}","part of Jaba' (Tajammu' B)",node
+locations:pal_c_0113,"Dar Faza'a",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9185549526, ""lng"":35.3212781629}","part of Badiw al Mu'arrajat",node
+locations:pal_c_0114,Tatrit,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3510628202, ""lng"":34.9279195681}","part of 'Arab al Fureijat",node
+locations:pal_c_0115,"Humsa - Basaliya",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1979500073, ""lng"":35.455278547}","part of Furush Beit Dajan",node
+locations:pal_c_0116,"Al Mashru' Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8696477335, ""lng"":35.4995183617}","part of Jericho",node
+locations:pal_c_0117,Isteih,,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8539919275, ""lng"":35.435159665}","part of Jericho",node
+locations:pal_c_0118,"Beit Hanina - Dahiyat Al Bareed",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8434816442, ""lng"":35.2328237921}","part of Ar Ram & Dah",node
+locations:pal_c_0119,"East Tayba Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9392603769, ""lng"":35.3286389259}",VPP,node
+locations:pal_c_0120,"Al Mu'arrajat Centre",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9126271871, ""lng"":35.3507536841}",PCBS,node
+locations:pal_c_0121,Qezoun,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5598626096, ""lng"":35.104461855}","part of Hebron",node
+locations:pal_c_0122,"An Nabi Musa Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.7955336001, ""lng"":35.4117572489}",PCBS,node
+locations:pal_c_0123,"Khirbet ar Ratheem",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3678882688, ""lng"":35.0249446993}","part of 'Arab al Fureijat",node
+locations:pal_c_0124,"Umm al Hamam",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0761486071, ""lng"":35.0059830271}",VPP,node
+locations:pal_c_0125,"Al Khalayleh",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8499266861, ""lng"":35.1650963337}","part of Al Jib",node
+locations:pal_c_0126,"North Al Jib Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8562996198, ""lng"":35.1891180409}","part of Al Jib",node
+locations:pal_c_0127,"Latoon Abu Jumaa",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7947556139, ""lng"":35.2968188599}",na,node
+locations:pal_c_0128,"Tal al 'Addasa Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8492270608, ""lng"":35.2155320154}","part of Bir Nabala",node
+locations:pal_c_0129,"Wadi al A'awaj",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7696134361, ""lng"":35.3158980716}",VPP,node
+locations:pal_c_0130,"Umm Daleen",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.0838608324, ""lng"":35.4934320862}",na,node
+locations:pal_c_0131,"Ad Deir",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3806897685, ""lng"":35.5287888333}",VPP,node
+locations:pal_c_0132,"Ras al Wad",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6917034502, ""lng"":35.2588812345}","part of Ash Shawawra",node
+locations:pal_c_0133,"Abu al 'Urqan",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4313918754, ""lng"":35.0207527262}","part of Rabud",node
+locations:pal_c_0134,"Abu al Ghuzlan",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4367691782, ""lng"":35.0087212102}","part of Rabud",node
+locations:pal_c_0135,"Al Bira",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4375312258, ""lng"":34.9256254699}","part of Al Burj",node
+locations:pal_c_0136,"Al Farisiya-Khallet Khader",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3602982294, ""lng"":35.5187915725}","PCBS Tables",node
+locations:pal_c_0137,"Khashem al Karem",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.419390162, ""lng"":35.2388055346}","part of An Najada",node
+locations:pal_c_0138,Iskeik,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4657782118, ""lng"":34.9571262113}","part of Al Majd",node
+locations:pal_c_0139,Iqtait,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4052642766, ""lng"":34.9156730891}","part of 'Anab al Kabir",node
+locations:pal_c_0140,"Al Hijra",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4890247838, ""lng"":35.057162845}","part of Dura",node
+locations:pal_c_0141,"Rojom Eshayeb",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4073305364, ""lng"":35.2250880383}","part of An Najada",node
+locations:pal_c_0142,"Deir al Hawa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3694642335, ""lng"":34.9295175449}","part of Ar Ramadin",node
+locations:pal_c_0143,"Khallet Anjas",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.497094476, ""lng"":35.1925422391}","part of 'Anin",node
+locations:pal_c_0144,Adebal,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4478104737, ""lng"":35.1807227403}","part of Ya'bad",node
+locations:pal_c_0145,"Khallet Alatot",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1935316391, ""lng"":35.189262669}",na,node
+locations:pal_c_0146,"Tha'lah",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4251494649, ""lng"":35.1755969848}","part of Imneizil",node
+locations:pal_c_0147,"Umm At Tiran",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3826760562, ""lng"":34.9916998362}","part of Khirbet Zanuta",node
+locations:pal_c_0148,"Umm Al Qaáran",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3834792973, ""lng"":34.9959144087}","part of Khirbet Zanuta",node
+locations:pal_c_0149,"Deir Sharaf",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2538137418, ""lng"":35.1878037269}",PCBS,node
+locations:pal_c_0150,"Al Halqum",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6474471896, ""lng"":35.1977069768}","part of Tuqu'",node
+locations:pal_c_0151,Harmala,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6611539832, ""lng"":35.2217094813}","part of Jannatah (Beit Falouh)",node
+locations:pal_c_0152,"Masafer Bani Na'im",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5054871656, ""lng"":35.204939706}","part of Bani Na'im",node
+locations:pal_c_0153,Suba,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5422055092, ""lng"":34.9930777507}","part of Idhna",node
+locations:pal_c_0154,"Bir Musallam",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5726618702, ""lng"":34.9826245718}","part of Idhna",node
+locations:pal_c_0155,Qusin,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2385382865, ""lng"":35.1860322149}","PCBS Tables",node
+locations:pal_c_0156,"Beit Iba",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2421956706, ""lng"":35.1977547608}",PCBS,node
+locations:pal_c_0157,"Beit Wazan",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2306444052, ""lng"":35.2151127655}","PCBS Tables",node
+locations:pal_c_0158,Zawata,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.240298717, ""lng"":35.2192359861}",PCBS,node
+locations:pal_c_0159,"Asira ash Shamaliya",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2526125181, ""lng"":35.2660576502}","PCBS Tables",node
+locations:pal_c_0160,Azmut,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2237755263, ""lng"":35.3110781707}","PCBS Tables",node
+locations:pal_c_0161,"Deir al Hatab",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2164971648, ""lng"":35.3207682086}","PCBS Tables",node
+locations:pal_c_0162,"Umm al Butm",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6099597021, ""lng"":35.1935655112}","PCBS 2007",node
+locations:pal_c_0163,Hamrush,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6039480064, ""lng"":35.1754981032}","PCBS 2007",node
+locations:pal_c_0164,"Khirbet ad Deir",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6515730112, ""lng"":35.2114253338}","part of Tuqu'",node
+locations:pal_c_0165,"Al Beida",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6695780778, ""lng"":35.1816707628}","part of Wadi Rahhal",node
+locations:pal_c_0166,"Deir Razih",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.465379637, ""lng"":35.0409967119}",PCBS,node
+locations:pal_c_0167,"Umm ad Daraj",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.445491779, ""lng"":35.2011863425}",PCBS,node
+locations:pal_c_0168,"Khirbet ad Deir",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6558467077, ""lng"":35.0260690252}",PCBS,node
+locations:pal_c_0169,"Khallet Sakariya",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6591456789, ""lng"":35.1251578683}",PCBS,node
+locations:pal_c_0170,"Wadi ar Rasha",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1671891468, ""lng"":34.9961626987}","PCBS Tables",node
+locations:pal_c_0171,"Jurat ash Sham'a",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.651787856, ""lng"":35.1701289808}",PCBS,node
+locations:pal_c_0172,"Al Masqufa",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3342586549, ""lng"":35.0559527013}",PCBS,node
+locations:pal_c_0173,"Al Haffasi",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2919906874, ""lng"":35.0746834026}",PCBS,node
+locations:pal_c_0174,Kafa,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2939043247, ""lng"":35.0502975217}",PCBS,node
+locations:pal_c_0175,"Al Funduq",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1894853108, ""lng"":35.133674053}",PCBS,node
+locations:pal_c_0176,"Haribat an Nabi",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3775986427, ""lng"":35.1087025453}","part of Khirbet Bir al 'Idd",node
+locations:pal_c_0177,Susiya,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4008748161, ""lng"":35.1083558941}","part of At Tuwani",node
+locations:pal_c_0178,Jinba,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3645761252, ""lng"":35.140266419}","part of Khirbet Bir al 'Idd",node
+locations:pal_c_0179,Mirkez,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3638425093, ""lng"":35.1502475658}","part of Khirbet al Fakheit",node
+locations:pal_c_0180,Qawawis,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3943456039, ""lng"":35.1424496359}","part of At Tuwani",node
+locations:pal_c_0181,"Khirbet al Majaz",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3789143421, ""lng"":35.1879770253}","part of Khirbet al Fakheit",node
+locations:pal_c_0182,"Khirbet at Tabban",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3820467802, ""lng"":35.1740066807}","part of Khirbet al Fakheit",node
+locations:pal_c_0183,"Maghayir al Abeed",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3869681075, ""lng"":35.1843829319}","PCBS 2007",node
+locations:pal_c_0184,"Isfey al Fauqa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3977380576, ""lng"":35.1807817639}","part of Khirbet Asafi",node
+locations:pal_c_0185,"Isfey al Tihta",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.399354343, ""lng"":35.1866132387}","part of Khirbet Asafi",node
+locations:pal_c_0186,Ibziq,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3764749338, ""lng"":35.4058773613}",PCBS,node
+locations:pal_c_0187,"Al Maniya",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6279779576, ""lng"":35.2165969684}",PCBS,node
+locations:pal_c_0188,"Ti'innik",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.5199670415, ""lng"":35.2216202675}",PCBS,node
+locations:pal_c_0189,"Arab al Fureijat",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3561997585, ""lng"":34.9199497055}",PCBS,node
+locations:pal_c_0190,Imneizil,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3713054789, ""lng"":35.1056737517}",PCBS,node
+locations:pal_c_0191,"Khirbet al Fakheit",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3771074373, ""lng"":35.166230038}",PCBS,node
+locations:pal_c_0192,"Mantiqat Shi'b al Butum",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3945086198, ""lng"":35.1325904358}",PCBS,node
+locations:pal_c_0193,"Khirbet Bir al 'Idd",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3734637298, ""lng"":35.1315104279}","part of Khirbet Bir al 'Idd",node
+locations:pal_c_0194,Rabud,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4389781268, ""lng"":35.0165099166}",PCBS,node
+locations:pal_c_0195,"At Tuwani",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4128448953, ""lng"":35.1533346664}",PCBS,node
+locations:pal_c_0196,"Al Janiya",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.938279258, ""lng"":35.1208796916}",PCBS,node
+locations:pal_c_0197,"Kafr Ni'ma",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9263799555, ""lng"":35.096583393}","PCBS Tables",node
+locations:pal_c_0198,"Deir Ibzi'",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9170581279, ""lng"":35.1217707422}",PCBS,node
+locations:pal_c_0199,"Ras Karkar",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9424573737, ""lng"":35.107228765}",PCBS,node
+locations:pal_c_0200,Beituniya,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8970790755, ""lng"":35.1711879608}",PCBS,node
+locations:pal_c_0201,"Ein Qiniya",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9265734184, ""lng"":35.1496367389}",PCBS,node
+locations:pal_c_0202,"Ein 'Arik",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9066934552, ""lng"":35.1426440833}",PCBS,node
+locations:pal_c_0203,Surda,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9382468504, ""lng"":35.200603212}","PCBS Tables",node
+locations:pal_c_0204,"Al Bireh",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9060360066, ""lng"":35.2137036408}",PCBS,node
+locations:pal_c_0205,Beitin,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9280369047, ""lng"":35.2398762438}",PCBS,node
+locations:pal_c_0206,"Al Wata",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7232275258, ""lng"":35.2005436757}",na,node
+locations:pal_c_0207,"I'zeiz",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4307282619, ""lng"":35.0811904185}","part of Yatta",node
+locations:pal_c_0208,Tawas,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.488821686, ""lng"":34.9559712631}","part of Sikka",node
+locations:pal_c_0209,"Khirbet Abu Hamid",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4738776387, ""lng"":34.9520467573}","part of Al Majd",node
+locations:pal_c_0210,"Arab ar Rashayida al Barriya",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.533267747, ""lng"":35.2884262105}",VPP,node
+locations:pal_c_0211,"Al 'Alaqa al Fauqa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4604988948, ""lng"":35.0089615977}","part of Imreish",node
+locations:pal_c_0212,"Ar Rifa'iyya",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4489311503, ""lng"":35.151531714}","part of Ad Deirat",node
+locations:pal_c_0213,"Al Kum",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5338579526, ""lng"":34.9630366116}","part of Beit Maqdum",node
+locations:pal_c_0214,"Ad Deirat",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4434639522, ""lng"":35.1622855048}","PCBS Tables",node
+locations:pal_c_0215,"Umm Salamuna",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6451692582, ""lng"":35.1664915351}",PCBS,node
+locations:pal_c_0216,"Al Manshiya",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6417926599, ""lng"":35.1934364447}",PCBS,node
+locations:pal_c_0217,"Jubbet adh Dhib",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6635622298, ""lng"":35.247842535}",PCBS,node
+locations:pal_c_0218,"Al Walaja",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7304341294, ""lng"":35.1633659412}",PCBS,node
+locations:pal_c_0219,"Kharayib Umm al Lahim",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8392725186, ""lng"":35.0945639405}",PCBS,node
+locations:pal_c_0220,"Beit Maqdum",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5344937431, ""lng"":34.9714123585}","PCBS Tables",node
+locations:pal_c_0221,Tarqumiya,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5754915411, ""lng"":35.0127304228}",PCBS,node
+locations:pal_c_0222,Idhna,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5553570185, ""lng"":34.9727831142}",PCBS,node
+locations:pal_c_0223,Taffuh,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5372119716, ""lng"":35.0498362128}","PCBS Tables",node
+locations:pal_c_0224,Halhul,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5803929378, ""lng"":35.102458163}",PCBS,node
+locations:pal_c_0225,"Ash Shuyukh",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5658191597, ""lng"":35.1653053614}",PCBS,node
+locations:pal_c_0226,"Sa'ir",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.581500775, ""lng"":35.1468517893}","PCBS Tables",node
+locations:pal_c_0227,Kisan,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6111483684, ""lng"":35.2245792414}",PCBS,node
+locations:pal_c_0228,Surif,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6473189824, ""lng"":35.0677062228}",PCBS,node
+locations:pal_c_0229,"Wadi Rahhal",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6646604124, ""lng"":35.1675416998}",PCBS,node
+locations:pal_c_0230,"Wadi an Nis",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6537505626, ""lng"":35.1612996316}",PCBS,node
+locations:pal_c_0231,"Marah Rabah",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6344639469, ""lng"":35.1879127741}","PCBS Tables",node
+locations:pal_c_0232,"Ar Ras",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2516398472, ""lng"":35.0626574991}","PCBS Tables",node
+locations:pal_c_0233,"Kafr Sur",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.243866595, ""lng"":35.0645569729}","PCBS Tables",node
+locations:pal_c_0234,"Kafr Zibad",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2243301525, ""lng"":35.0712315271}","PCBS Tables",node
+locations:pal_c_0235,"Kafr Jammal",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2250653042, ""lng"":35.0449410001}",PCBS,node
+locations:pal_c_0236,Kur,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2356348062, ""lng"":35.0970120007}","PCBS Tables",node
+locations:pal_c_0237,"Kafr 'Abbush",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2227005891, ""lng"":35.0842406853}","PCBS Tables",node
+locations:pal_c_0238,"Kafr Qaddum",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.2210401075, ""lng"":35.144346762}",PCBS,node
+locations:pal_c_0239,Jit,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.214171985, ""lng"":35.1703565889}",PCBS,node
+locations:pal_c_0240,"Al Ma'sara",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6542890732, ""lng"":35.1806016856}",PCBS,node
+locations:pal_c_0241,"Jannatah (Beit Falouh)",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6685391844, ""lng"":35.2184796978}",PCBS,node
+locations:pal_c_0242,"Wadi Fukin",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7067846791, ""lng"":35.1034605764}",PCBS,node
+locations:pal_c_0243,Nahhalin,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6852659668, ""lng"":35.1204354531}",PCBS,node
+locations:pal_c_0244,Husan,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7085844604, ""lng"":35.1350834287}",PCBS,node
+locations:pal_c_0245,"Al Khadr",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6943266804, ""lng"":35.1690401553}",PCBS,node
+locations:pal_c_0246,Artas,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6892293662, ""lng"":35.1881702728}","PCBS Tables",node
+locations:pal_c_0247,"Ad Duheisha Camp",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6932076145, ""lng"":35.1849393496}","PCBS Tables",node
+locations:pal_c_0248,"Ad Doha",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7005270933, ""lng"":35.1860082828}","PCBS Tables",node
+locations:pal_c_0249,"Beit Jala",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7137493994, ""lng"":35.1842675307}",PCBS,node
+locations:pal_c_0250,"Deir Samit",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5190724974, ""lng"":34.9752596106}",PCBS,node
+locations:pal_c_0251,"Beit 'Anan",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8513542479, ""lng"":35.1121687697}",PCBS,node
+locations:pal_c_0252,Qatanna,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8340292406, ""lng"":35.1191509276}",PCBS,node
+locations:pal_c_0253,"Beit Ijza",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8471060798, ""lng"":35.1515311823}",PCBS,node
+locations:pal_c_0254,"Al Qubeiba",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8385186672, ""lng"":35.1369377042}",PCBS,node
+locations:pal_c_0255,Biddu,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8349464188, ""lng"":35.1488221859}",PCBS,node
+locations:pal_c_0256,"Beit Surik",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8239173798, ""lng"":35.1488305919}",PCBS,node
+locations:pal_c_0257,"Bir Nabala",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8505736705, ""lng"":35.2029503074}",PCBS,node
+locations:pal_c_0258,"An Nabi Samwil",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8330025092, ""lng"":35.1828989656}",PCBS,node
+locations:pal_c_0259,"Beit Hanina al Balad",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8302617518, ""lng"":35.2072178596}",PCBS,node
+locations:pal_c_0260,"Beit Iksa",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8183940213, ""lng"":35.1790045793}",PCBS,node
+locations:pal_c_0261,Hizma,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8337917136, ""lng"":35.2639332723}",PCBS,node
+locations:pal_c_0262,"Kharbatha Bani Harith",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9452435739, ""lng"":35.0724496996}",PCBS,node
+locations:pal_c_0263,"Deir 'Ammar Camp",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9662826269, ""lng"":35.0989742795}",PCBS,node
+locations:pal_c_0264,Beitillu,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9742256556, ""lng"":35.1193058986}","PCBS Tables",node
+locations:pal_c_0265,"Al Jalazun Camp",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9501844978, ""lng"":35.2126924325}",PCBS,node
+locations:pal_c_0266,"Ein Siniya",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9709370331, ""lng"":35.2280922815}","PCBS Tables",node
+locations:pal_c_0267,Jifna,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9626626209, ""lng"":35.2147424345}","PCBS Tables",node
+locations:pal_c_0268,"Dura al Qar'a",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9587667721, ""lng"":35.2282972641}",PCBS,node
+locations:pal_c_0269,"Abu Qash",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9499981679, ""lng"":35.1839089019}","PCBS Tables",node
+locations:pal_c_0270,"Bir Zeit",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9691186984, ""lng"":35.1941223282}","PCBS Tables",node
+locations:pal_c_0271,Yabrud,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9745144104, ""lng"":35.2449639504}",PCBS,node
+locations:pal_c_0272,"Deir Nidham",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0032191558, ""lng"":35.1141062761}",PCBS,node
+locations:pal_c_0273,"Deir as Sudan",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0278873127, ""lng"":35.1532188615}","PCBS Tables",node
+locations:pal_c_0274,Ajjul,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0224651475, ""lng"":35.1790050357}","PCBS Tables",node
+locations:pal_c_0275,"Umm Safa",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0088232836, ""lng"":35.1652500015}",PCBS,node
+locations:pal_c_0276,Jibiya,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9978693871, ""lng"":35.1600796651}","PCBS Tables",node
+locations:pal_c_0277,Burham,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9881095417, ""lng"":35.1752385767}","PCBS Tables",node
+locations:pal_c_0278,Kobar,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9871267942, ""lng"":35.1574967759}","PCBS Tables",node
+locations:pal_c_0279,Jilijliya,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0288325353, ""lng"":35.2273093441}","PCBS Tables",node
+locations:pal_c_0280,Atara,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9995305024, ""lng"":35.2036870049}",PCBS,node
+locations:pal_c_0281,"Al Mazra'a ash Sharqiya",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.999081683, ""lng"":35.2805633602}","PCBS Tables",node
+locations:pal_c_0282,"Kafr Malik",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9878661678, ""lng"":35.311958513}",PCBS,node
+locations:pal_c_0283,"Wadi as Sada",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4594946642, ""lng"":35.0799101307}","part of Yatta",node
+locations:pal_c_0284,"At Tabaqa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.497674952, ""lng"":35.0151604962}","part of Dura",node
+locations:pal_c_0285,"Abu al 'Asja",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4410740434, ""lng"":35.0103651974}","part of Rabud",node
+locations:pal_c_0286,"Wadi al Kilab",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4483087926, ""lng"":34.9731312467}","PCBS 2007",node
+locations:pal_c_0287,"Juwai & Kafr Jul",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4343426872, ""lng"":34.9520329927}","part of Adh Dhahiriya",node
+locations:pal_c_0288,"Khirbet al Hasaka",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5669576011, ""lng"":35.0916366325}","part of Halhul",node
+locations:pal_c_0289,"Qafan al Khamis",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5698240956, ""lng"":35.1482085033}","part of Ash Shuyukh",node
+locations:pal_c_0290,Safa,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6382424747, ""lng"":35.0985999365}","part of Beit Ummar",node
+locations:pal_c_0291,"Abu Nujeim",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6624310293, ""lng"":35.1990997896}","part of Jannatah (Beit Falouh)",node
+locations:pal_c_0292,"Khallet al Qaranin",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6619585839, ""lng"":35.2125733359}","part of Jannatah (Beit Falouh)",node
+locations:pal_c_0293,"Al Jab'a",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6741408728, ""lng"":35.0783731599}","PCBS Tables",node
+locations:pal_c_0294,"Al Hujeila",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7119722542, ""lng"":35.2512363124}","part of Dar  Salah",node
+locations:pal_c_0295,"Bureid'a",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.683407545, ""lng"":35.2293244757}","part of Hindaza",node
+locations:pal_c_0296,"Dhahrat an Nada",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6908500353, ""lng"":35.2343433114}","part of Hindaza",node
+locations:pal_c_0297,"Umm al Qasseis",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7043435875, ""lng"":35.2540427405}","part of Dar  Salah",node
+locations:pal_c_0298,"Al Khushna",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6850670501, ""lng"":35.2680071967}","part of Ash Shawawra",node
+locations:pal_c_0299,Juhdum,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7062588733, ""lng"":35.2665965742}","part of Dar  Salah",node
+locations:pal_c_0300,"Umm 'Asla",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6993097603, ""lng"":35.2820120768}","part of Dar  Salah",node
+locations:pal_c_0301,Sharafat,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7406501849, ""lng"":35.1914111065}","with Beit Safafa, JIIS 2011",node
+locations:pal_c_0302,"Sur Bahir",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7326385685, ""lng"":35.2384452251}","JIIS 2011",node
+locations:pal_c_0303,"As Sawahira al Gharbiya",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.743209461, ""lng"":35.2443692383}","with J. al Mukabbir, JIIS 2011",node
+locations:pal_c_0304,"Sheikh Jarrah",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7973863138, ""lng"":35.2332927998}","JIIS 2011",node
+locations:pal_c_0305,"Al 'Isawiya",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7985159317, ""lng"":35.2496995903}","JIIS 2011",node
+locations:pal_c_0306,"Bab az Zahira",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7806901719, ""lng"":35.2386819088}","JIIS 2011",node
+locations:pal_c_0307,"Beit Hanina",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8302221402, ""lng"":35.2268004096}","JIIS 2011",node
+locations:pal_c_0308,"Shu'fat Camp",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8115273542, ""lng"":35.2454158925}","JIIS 2011, with Anata",node
+locations:pal_c_0309,"Shu'fat",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8136431124, ""lng"":35.2309806711}","JIIS 2011",node
+locations:pal_c_0310,Jammala,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9728533449, ""lng"":35.0917446607}","part of AL-Itihad",node
+locations:pal_c_0311,"Al Mazra'a al Qibliya",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.954186057, ""lng"":35.1591779507}","part of Al Zaytouneh",node
+locations:pal_c_0312,"Izbat Jal'ud",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1503719277, ""lng"":34.9984916329}",PCBS,node
+locations:pal_c_0313,"Ad Dab'a",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1583109933, ""lng"":35.0096421745}",PCBS,node
+locations:pal_c_0314,"Izbat at Tabib",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1813370413, ""lng"":35.0343704519}",PCBS,node
+locations:pal_c_0315,"Khirbet Jubara",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2685347921, ""lng"":35.041468753}",PCBS,node
+locations:pal_c_0316,"Al 'Aqaba",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3369377068, ""lng"":35.4172391605}",PCBS,node
+locations:pal_c_0317,Imreiha,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4325951989, ""lng"":35.1459581007}",PCBS,node
+locations:pal_c_0318,"Bir al Basha",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4209760733, ""lng"":35.2312686156}",PCBS,node
+locations:pal_c_0319,"Wadi Du'oq",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3927192495, ""lng"":35.2212495279}",PCBS,node
+locations:pal_c_0320,"Al Mutilla",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4198563865, ""lng"":35.4071219688}","PCBS Tables",node
+locations:pal_c_0321,Akkaba,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.4489678626, ""lng"":35.0815141664}",PCBS,node
+locations:pal_c_0322,"Dhaher al 'Abed",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.45061993, ""lng"":35.0940316178}",PCBS,node
+locations:pal_c_0323,"Khirbet 'Abdallah al Yunis",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4756249051, ""lng"":35.1140422822}",PCBS,node
+locations:pal_c_0324,"Aba al Gharbiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4590928, ""lng"":35.3237929634}",PCBS,node
+locations:pal_c_0325,"Wad ad Dabi' (Aba al ash Sharqiya)",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.454990503, ""lng"":35.3326097815}",PCBS,node
+locations:pal_c_0326,"Umm ar Rihan",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4831823585, ""lng"":35.1420076587}",PCBS,node
+locations:pal_c_0327,"Arab ar Rashayida",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.5683412491, ""lng"":35.2343339172}",PCBS,node
+locations:pal_c_0328,"Al Mansura",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3864645748, ""lng"":35.2163613849}",PCBS,node
+locations:pal_c_0329,"Dhaher al Malih",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4734546805, ""lng"":35.1591858921}",PCBS,node
+locations:pal_c_0330,"Tura ash Sharqiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4665642436, ""lng"":35.1659630468}",PCBS,node
+locations:pal_c_0331,"Khirbet ar Ras al Ahmar",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2655626104, ""lng"":35.4582450491}",PCBS,node
+locations:pal_c_0332,"Beit Kahil",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5700832419, ""lng"":35.0654782112}",PCBS,node
+locations:pal_c_0333,Zif,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.466983358, ""lng"":35.1376274622}",PCBS,node
+locations:pal_c_0334,"Al Bowereh (Aqabat Injeleh)",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4813732727, ""lng"":35.1235963416}",PCBS,node
+locations:pal_c_0335,"Biyar al 'Arus",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4661658689, ""lng"":35.1179693542}","part of Yatta",node
+locations:pal_c_0336,"Ein Jaryout",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8919175556, ""lng"":35.1586233279}","part of Beituniya",node
+locations:pal_c_0337,"Arab al Ka'abneh",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.05432313, ""lng"":35.3754319406}",VPP,node
+locations:pal_c_0338,"Jbour and 'Anani",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.065348565, ""lng"":35.0051534949}",VPP,node
+locations:pal_c_0339,"North Bir Nabala Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8566219005, ""lng"":35.2057946407}","part of Bir Nabala",node
+locations:pal_c_0340,"Mikhmas Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.878027533, ""lng"":35.2874094704}",VPP,node
+locations:pal_c_0341,"North Beit Hanina Al Balad Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.841354315, ""lng"":35.2080327578}",VPP,node
+locations:pal_c_0342,"South Bir Nabala Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8442780391, ""lng"":35.2072110417}","part of Bir Nabala",node
+locations:pal_c_0343,"Beit Hanina - Al Marwaha West",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8357315319, ""lng"":35.2151029358}",VPP,node
+locations:pal_c_0344,"Jabal Al Deek",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7129341742, ""lng"":35.2265392655}","part of Beit Sahur",node
+locations:pal_c_0345,"Arab Abu Farda",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1766500317, ""lng"":34.9937445233}",PCBS,node
+locations:pal_c_0346,"Arab ar Ramadin al Janubi",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1742258024, ""lng"":34.988504878}",PCBS,node
+locations:pal_c_0347,"Ma'in",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4103488875, ""lng"":35.132293962}",PCBS,node
+locations:pal_c_0348,"Khirbet Abu Falah",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0155962958, ""lng"":35.3008531444}","PCBS Tables",node
+locations:pal_c_0349,Jinsafut,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1795235113, ""lng"":35.1308350539}",PCBS,node
+locations:pal_c_0350,"Marj Na'ja",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.1846418177, ""lng"":35.5379916843}",PCBS,node
+locations:pal_c_0351,Falamya,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.2256672007, ""lng"":35.0233230444}",PCBS,node
+locations:pal_c_0352,"Far'un",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2869744163, ""lng"":35.0240887517}",PCBS,node
+locations:pal_c_0353,Shufa,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2758802817, ""lng"":35.0833194764}",PCBS,node
+locations:pal_c_0354,Saffarin,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.261814758, ""lng"":35.109364538}","PCBS Tables",node
+locations:pal_c_0355,Attil,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.369489381, ""lng"":35.0722150636}",PCBS,node
+locations:pal_c_0356,"Deir al Ghusun",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3527723801, ""lng"":35.0760389627}",PCBS,node
+locations:pal_c_0357,Zeita,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3845018782, ""lng"":35.0560208319}",PCBS,node
+locations:pal_c_0358,Seida,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3859351005, ""lng"":35.120374699}","PCBS Tables",node
+locations:pal_c_0359,Illar,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3721240163, ""lng"":35.1076090829}","PCBS Tables",node
+locations:pal_c_0360,Fahma,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3830750266, ""lng"":35.1803958931}","PCBS Tables",node
+locations:pal_c_0361,"Kafr Ra'i",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3751337395, ""lng"":35.1575923125}","PCBS Tables",node
+locations:pal_c_0362,"Ar Rama",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3592585942, ""lng"":35.1724962004}","PCBS Tables",node
+locations:pal_c_0363,"Az Zawiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3753649044, ""lng"":35.2320348677}","PCBS Tables",node
+locations:pal_c_0364,Ajja,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3584973637, ""lng"":35.1966591261}",PCBS,node
+locations:pal_c_0365,Anza,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3568202532, ""lng"":35.2182959005}",PCBS,node
+locations:pal_c_0366,"Fahma al Jadida",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3893423942, ""lng"":35.2094575627}","PCBS Tables",node
+locations:pal_c_0367,Misliya,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3874259637, ""lng"":35.2905851275}","PCBS Tables",node
+locations:pal_c_0368,Fasayil,,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.025308057, ""lng"":35.4433117553}",PCBS,node
+locations:pal_c_0369,Rafat,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0784948594, ""lng"":35.0437426799}",PCBS,node
+locations:pal_c_0370,"Deir Ballut",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0654555868, ""lng"":35.0251805762}",PCBS,node
+locations:pal_c_0371,"Al Lubban al Gharbi",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0349452837, ""lng"":35.0392475989}",PCBS,node
+locations:pal_c_0372,Bruqin,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0757143489, ""lng"":35.1010648799}",PCBS,node
+locations:pal_c_0373,"Kafr ad Dik",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0675675619, ""lng"":35.0825272489}",PCBS,node
+locations:pal_c_0374,"Kafr 'Ein",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0472928174, ""lng"":35.1202854782}","PCBS Tables",node
+locations:pal_c_0375,"Beit Rima (Bani Zeid)",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0329344188, ""lng"":35.1028260389}","PCBS Tables",node
+locations:pal_c_0376,Farkha,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0694289097, ""lng"":35.1540546987}","PCBS Tables",node
+locations:pal_c_0377,"Khirbet Qeis",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0624671636, ""lng"":35.1777441261}","PCBS Tables",node
+locations:pal_c_0378,"Qarawat Bani Zeid",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0542883763, ""lng"":35.1290929327}","PCBS Tables",node
+locations:pal_c_0379,"Mazari' an Nubani",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0489096939, ""lng"":35.1648801999}","PCBS Tables",node
+locations:pal_c_0380,Abwein,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0323998331, ""lng"":35.2007588232}","PCBS Tables",node
+locations:pal_c_0381,"Jaba'",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8578558796, ""lng"":35.2572453465}",PCBS,node
+locations:pal_c_0382,"Ein ad Duyuk al Fauqa",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8899685424, ""lng"":35.4251776963}","PCBS Tables",node
+locations:pal_c_0383,"An Nuwei'ma",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8898717119, ""lng"":35.4427027611}","PCBS Tables",node
+locations:pal_c_0384,Jericho,,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8591485726, ""lng"":35.4631790704}",PCBS,node
+locations:pal_c_0385,"Al Midya",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9359616751, ""lng"":35.0041111542}",PCBS,node
+locations:pal_c_0386,"Bil'in",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9285651715, ""lng"":35.071564257}","PCBS Tables",node
+locations:pal_c_0387,Saffa,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9046870238, ""lng"":35.0617900017}",PCBS,node
+locations:pal_c_0388,"Bir Onah",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.723080689, ""lng"":35.1897422072}","PCBS Tables",node
+locations:pal_c_0389,"Deir Dibwan",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9109254939, ""lng"":35.2672309655}",PCBS,node
+locations:pal_c_0390,Burqa,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8968280824, ""lng"":35.2539474075}",PCBS,node
+locations:pal_c_0391,Rammun,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.933032017, ""lng"":35.2977571477}","PCBS Tables",node
+locations:pal_c_0392,"El Far'a Camp",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2938343048, ""lng"":35.344063157}","PCBS Tables",node
+locations:pal_c_0393,"Wadi al Far'a",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2815624044, ""lng"":35.3423066458}","PCBS Tables",node
+locations:pal_c_0394,"Turmus'ayya",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0361744747, ""lng"":35.2853810224}",PCBS,node
+locations:pal_c_0395,Sinjil,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0332885474, ""lng"":35.2650611027}",PCBS,node
+locations:pal_c_0396,"Azzun 'Atma",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1226633372, ""lng"":35.0172762318}",PCBS,node
+locations:pal_c_0397,Mas-ha,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1076514609, ""lng"":35.0500794223}",PCBS,node
+locations:pal_c_0398,"Az Zawiya",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0964461541, ""lng"":35.0407920159}",PCBS,node
+locations:pal_c_0399,Biddya,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1144766407, ""lng"":35.0795058758}",PCBS,node
+locations:pal_c_0400,"An Nazla ash Sharqiya",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.4111714188, ""lng"":35.1083007802}","PCBS Tables",node
+locations:pal_c_0401,"An Nazla al Wusta",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.4101751191, ""lng"":35.0933390554}",PCBS,node
+locations:pal_c_0402,Arraba,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.405294473, ""lng"":35.2048908825}",PCBS,node
+locations:pal_c_0403,Mirka,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3961030619, ""lng"":35.2384506525}","PCBS Tables",node
+locations:pal_c_0404,"Ash Shuhada",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.429334745, ""lng"":35.2727372447}","PCBS Tables",node
+locations:pal_c_0405,Qabatiya,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4101632255, ""lng"":35.2809344396}","PCBS Tables",node
+locations:pal_c_0406,"Umm at Tut",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4324968866, ""lng"":35.3444329822}","PCBS Tables",node
+locations:pal_c_0407,Telfit,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4012933182, ""lng"":35.3410001325}","PCBS Tables",node
+locations:pal_c_0408,Jalqamus,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4243882864, ""lng"":35.3636924521}","PCBS Tables",node
+locations:pal_c_0409,"Al Mughayyir",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4215212959, ""lng"":35.387462886}","PCBS Tables",node
+locations:pal_c_0410,"Barta'a ash Sharqiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4721523713, ""lng"":35.0950985067}",PCBS,node
+locations:pal_c_0411,Zabda,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4489044747, ""lng"":35.1289545561}",PCBS,node
+locations:pal_c_0412,"Nazlat ash Sheikh Zeid",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4623935895, ""lng"":35.1755090097}",PCBS,node
+locations:pal_c_0413,"Al Khuljan",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4549490013, ""lng"":35.1449433709}","PCBS Tables",node
+locations:pal_c_0414,"Ya'bad",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4447906227, ""lng"":35.1677332938}",PCBS,node
+locations:pal_c_0415,"Umm Dar",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.457027992, ""lng"":35.137122593}","PCBS Tables",node
+locations:pal_c_0416,"Al Hashimiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4653758356, ""lng"":35.2233086789}","PCBS Tables",node
+locations:pal_c_0417,"Al 'Araqa",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4694141544, ""lng"":35.2033018993}","PCBS Tables",node
+locations:pal_c_0418,"At Tarem",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.461542711, ""lng"":35.1917628374}","PCBS Tables",node
+locations:pal_c_0419,"Kafr Qud",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4570775841, ""lng"":35.2284691957}","PCBS Tables",node
+locations:pal_c_0420,Kufeirit,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4426974155, ""lng"":35.2044868977}","PCBS Tables",node
+locations:pal_c_0421,"Jenin Camp",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4601759394, ""lng"":35.2877138696}","PCBS Tables",node
+locations:pal_c_0422,"Kafr Dan",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4801307676, ""lng"":35.2551487908}","PCBS Tables",node
+locations:pal_c_0423,Birqin,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4549357539, ""lng"":35.2609327122}","PCBS Tables",node
+locations:pal_c_0424,Jenin,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4627198234, ""lng"":35.2995223674}",PCBS,node
+locations:pal_c_0425,"Beit Qad",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4702641305, ""lng"":35.3566683902}","PCBS Tables",node
+locations:pal_c_0426,"Deir Abu Da'if",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4558170723, ""lng"":35.3639707855}","PCBS Tables",node
+locations:pal_c_0427,Jalbun,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4600358484, ""lng"":35.4126010693}",PCBS,node
+locations:pal_c_0428,"At Tayba",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.5162293441, ""lng"":35.18683114}",PCBS,node
+locations:pal_c_0429,Anin,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.5017933581, ""lng"":35.1695698706}",PCBS,node
+locations:pal_c_0430,Nuba,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6078537082, ""lng"":35.0348935531}","PCBS Tables",node
+locations:pal_c_0431,"Shuyukh al 'Arrub",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6160739138, ""lng"":35.1454172054}","PCBS Tables",node
+locations:pal_c_0432,"Beit Fajjar",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6247640114, ""lng"":35.1545451747}",PCBS,node
+locations:pal_c_0433,"Al Karameh (Beit Nuba)",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8591776353, ""lng"":35.0442243178}",PCBS,node
+locations:pal_c_0434,"Ath Thaghra",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3296227079, ""lng"":35.3895470543}","PCBS Tables",node
+locations:pal_c_0435,Hitta,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.620360098, ""lng"":35.0210209086}","PCBS Tables",node
+locations:pal_c_0436,"Beit Ula",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5974769802, ""lng"":35.0219789783}","PCBS Tables",node
+locations:pal_c_0437,Kharas,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6161248384, ""lng"":35.0394154599}","PCBS Tables",node
+locations:pal_c_0438,Jala,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6209152006, ""lng"":35.0720444767}","PCBS Tables",node
+locations:pal_c_0439,"Beit Ummar",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6213125811, ""lng"":35.1062654277}",PCBS,node
+locations:pal_c_0440,"Al 'Arrub Camp",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.62290329, ""lng"":35.1363776989}",PCBS,node
+locations:pal_c_0441,"Kharbatha al Misbah",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8852218675, ""lng"":35.072241118}",PCBS,node
+locations:pal_c_0442,"Beit 'Ur at Tahta",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.895923281, ""lng"":35.0797883969}",PCBS,node
+locations:pal_c_0443,"Om Al Amad (Sahel Wadi Elma)",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4535681857, ""lng"":35.1353915096}","PCBS Tables",node
+locations:pal_c_0444,"Khallet al Maiyya",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.442287395, ""lng"":35.1447633865}",PCBS,node
+locations:pal_c_0445,"Deir al Qilt",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8424079764, ""lng"":35.4090267983}","PCBS 2007",node
+locations:pal_c_0446,Yanun,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1586447193, ""lng"":35.3596324006}",PCBS,node
+locations:pal_c_0447,"Ein Shibli",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2300956456, ""lng"":35.4247678577}",PCBS,node
+locations:pal_c_0448,"Izbat Shufa",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2847875239, ""lng"":35.0456802725}","part of Shufa",node
+locations:pal_c_0449,"Al Hafira",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4089803513, ""lng"":35.2318443969}","PCBS 2007",node
+locations:pal_c_0450,"Khirbet al Muntar al Gharbiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4610817701, ""lng"":35.1129478357}","PCBS 2007",node
+locations:pal_c_0451,"Khirbet al Muntar ash Sharqiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4588270028, ""lng"":35.1223178221}","PCBS 2007",node
+locations:pal_c_0452,"Khirbet Yarza",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3081749022, ""lng"":35.4356848551}","PCBS 2007",node
+locations:pal_c_0453,"Ad Damayra",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4063223691, ""lng"":35.2285870201}","part of Arraba",node
+locations:pal_c_0454,"Qeiqis al Qsur",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4498750223, ""lng"":35.1109299147}","part of Zabda",node
+locations:pal_c_0455,"Khirbet Sab'ein",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4355985638, ""lng"":35.3274617262}","part of Qabatiya",node
+locations:pal_c_0456,"Khirbet Suruj",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4875184366, ""lng"":35.1967295792}","PCBS 2007",node
+locations:pal_c_0457,"Arab Al Khouli/Wadi Kana",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1617145737, ""lng"":35.0681680742}",VPP,node
+locations:pal_c_0458,"Beit 'Ur al Fauqa",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8849594065, ""lng"":35.1154372021}",PCBS,node
+locations:pal_c_0459,"At Tira",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8704646016, ""lng"":35.1257496147}",PCBS,node
+locations:pal_c_0460,"Beit Duqqu",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8585554975, ""lng"":35.131680008}",PCBS,node
+locations:pal_c_0461,"Qalandiya Camp",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8679233159, ""lng"":35.2287480041}",PCBS,node
+locations:pal_c_0462,Rafat,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.871232599, ""lng"":35.1928906065}",PCBS,node
+locations:pal_c_0463,Qalandiya,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8626958435, ""lng"":35.2077410147}",PCBS,node
+locations:pal_c_0464,"Al Judeira",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8559987592, ""lng"":35.1971183428}",PCBS,node
+locations:pal_c_0465,"Al Jib",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8512762658, ""lng"":35.1817071202}",PCBS,node
+locations:pal_c_0466,"Al Am'ari Camp",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.89394953, ""lng"":35.2107936734}","PCBS Tables",node
+locations:pal_c_0467,Ramallah,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9045706756, ""lng"":35.1933537589}",PCBS,node
+locations:pal_c_0468,"Ar Ram & Dahiyat al Bareed",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8513608259, ""lng"":35.2350573887}",PCBS,node
+locations:pal_c_0469,Mikhmas,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8721237653, ""lng"":35.2773072064}",PCBS,node
+locations:pal_c_0470,"Ras al Far'a",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2873773846, ""lng"":35.3317865232}","PCBS Tables",node
+locations:pal_c_0471,Tammun,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2820929652, ""lng"":35.3841761502}","PCBS Tables",node
+locations:pal_c_0472,"Nur Shams Camp",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3178112365, ""lng"":35.0588803747}",PCBS,node
+locations:pal_c_0473,"Tulkarm Camp",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3137822727, ""lng"":35.0350200863}","PCBS Tables",node
+locations:pal_c_0474,Tulkarm,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3141999794, ""lng"":35.0310839509}",PCBS,node
+locations:pal_c_0475,"Al Jarushiya",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3449229328, ""lng"":35.0502374254}",PCBS,node
+locations:pal_c_0476,Iktaba,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3269315362, ""lng"":35.0561852944}",PCBS,node
+locations:pal_c_0477,"Bal'a",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3334900309, ""lng"":35.1107022408}","PCBS Tables",node
+locations:pal_c_0478,Anabta,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3069523229, ""lng"":35.1165515893}","PCBS Tables",node
+locations:pal_c_0479,"Al 'Attara",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3264775536, ""lng"":35.1625166783}","PCBS Tables",node
+locations:pal_c_0480,"Silat adh Dhahr",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3209586915, ""lng"":35.1879820094}",PCBS,node
+locations:pal_c_0481,"Jaba'",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3263022343, ""lng"":35.2222455038}","PCBS Tables",node
+locations:pal_c_0482,"Al Fandaqumiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3214860051, ""lng"":35.2031287543}",PCBS,node
+locations:pal_c_0483,"Al 'Asa'asa",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.32943179, ""lng"":35.2041807838}",PCBS,node
+locations:pal_c_0484,Siris,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3280280568, ""lng"":35.2908370991}","PCBS Tables",node
+locations:pal_c_0485,"Al Judeida",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3364701875, ""lng"":35.3030929103}","PCBS Tables",node
+locations:pal_c_0486,Tayasir,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3397801052, ""lng"":35.3975679373}","PCBS Tables",node
+locations:pal_c_0487,Tubas,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3210086798, ""lng"":35.3710940525}","PCBS Tables",node
+locations:pal_c_0488,"Az Zababida",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3850750947, ""lng"":35.3240910473}","PCBS Tables",node
+locations:pal_c_0489,Sir,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3630318522, ""lng"":35.3146558747}","PCBS Tables",node
+locations:pal_c_0490,Raba,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3885594346, ""lng"":35.3773255246}","PCBS Tables",node
+locations:pal_c_0491,Aqqaba,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3505699737, ""lng"":35.3497637543}","PCBS Tables",node
+locations:pal_c_0492,Bardala,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3865237444, ""lng"":35.4803648817}",PCBS,node
+locations:pal_c_0493,Kardala,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3792655607, ""lng"":35.4928752967}",PCBS,node
+locations:pal_c_0494,"Ein el Beida",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3809100028, ""lng"":35.5091125093}",PCBS,node
+locations:pal_c_0495,Qaffin,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.4321221504, ""lng"":35.0829104299}",PCBS,node
+locations:pal_c_0496,Rummana,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.5249783197, ""lng"":35.2060797273}",PCBS,node
+locations:pal_c_0497,"Silat al Harithiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.5087357536, ""lng"":35.2279279921}","PCBS Tables",node
+locations:pal_c_0498,"Al Yamun",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4867493749, ""lng"":35.2329922617}","PCBS Tables",node
+locations:pal_c_0499,Arrana,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4982989263, ""lng"":35.3221654345}",PCBS,node
+locations:pal_c_0500,"Deir Ghazala",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4957970007, ""lng"":35.3511113978}","PCBS Tables",node
+locations:pal_c_0501,"Al Jalama",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.5080177293, ""lng"":35.3136419124}",PCBS,node
+locations:pal_c_0502,Arabbuna,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.5113016572, ""lng"":35.3633939848}",PCBS,node
+locations:pal_c_0503,"Faqqu'a",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4911908005, ""lng"":35.3982053331}",PCBS,node
+locations:pal_c_0504,Zububa,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.5421092545, ""lng"":35.2221016179}",PCBS,node
+locations:pal_c_0505,"Khirbet Salama",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4910796317, ""lng"":34.9979427761}",PCBS,node
+locations:pal_c_0506,"As Sura",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4704558808, ""lng"":34.9990708761}","PCBS Tables",node
+locations:pal_c_0507,"Marah al Baqqar",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4759777368, ""lng"":34.984455961}","PCBS Tables",node
+locations:pal_c_0508,Imreish,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4682931121, ""lng"":35.0115362185}","PCBS Tables",node
+locations:pal_c_0509,Yatta,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4476705067, ""lng"":35.0967711897}","PCBS Tables",node
+locations:pal_c_0510,"Beit 'Awwa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5074840795, ""lng"":34.9549486939}",PCBS,node
+locations:pal_c_0511,Dura,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5050744723, ""lng"":35.0403376963}","PCBS Tables",node
+locations:pal_c_0512,"Khallet al Louza",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6736060787, ""lng"":35.2011643634}",PCBS,node
+locations:pal_c_0513,"Dahiyat Sabah al Kheir",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.488959171, ""lng"":35.2991281427}","part of Jenin",node
+locations:pal_c_0514,"Khallet al Haddad",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6578688255, ""lng"":35.191443643}","PCBS Tables",node
+locations:pal_c_0515,"Marah Ma'alla",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6494668251, ""lng"":35.1757693806}","PCBS Tables",node
+locations:pal_c_0516,"Wadi 'Ubeid",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4906151252, ""lng"":35.006380577}","PCBS Tables",node
+locations:pal_c_0517,"Kheroshewesh Wal Hadedeyah",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4417474544, ""lng"":35.1295875711}","PCBS Tables",node
+locations:pal_c_0518,"Om Ashoqhan",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4487197453, ""lng"":35.1387758807}",PCBS,node
+locations:pal_c_0519,"Ein al Hilwa - Wadi al Faw",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3186842426, ""lng"":35.4954792732}","PCBS Tables",node
+locations:pal_c_0520,"Ein al Hilwa",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3247398925, ""lng"":35.5029644098}","part of Al Malih",node
+locations:pal_c_0521,"Deir Sa'eeda",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3575144348, ""lng"":34.9292323699}","part of 'Arab al Fureijat",node
+locations:pal_c_0522,"Umm Sidra",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3586660882, ""lng"":34.9098716646}","part of 'Arab al Fureijat",node
+locations:pal_c_0523,"Khirbet ar Rahwa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3642767067, ""lng"":34.9503661984}","part of 'Arab al Fureijat",node
+locations:pal_c_0524,Yaqeen,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5014408331, ""lng"":35.1562406228}","part of Bani Na'im",node
+locations:pal_c_0525,"Al Janab",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7056512732, ""lng"":35.2426401583}","part of Beit Sahur",node
+locations:pal_c_0526,"Khirbet Zanuta",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3728535914, ""lng"":34.9949464653}","part of Khirbet Zanuta",node
+locations:pal_c_0527,"Khirbet Ghuwein al Fauqa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3610522433, ""lng"":35.079142132}","part of As Samu'",node
+locations:pal_c_0528,Dkaika,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3845891001, ""lng"":35.2247806216}","part of Khirbet Tawil ash Shih",node
+locations:pal_c_0529,"Ar Rakeez",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4062201297, ""lng"":35.1491230409}","part of At Tuwani",node
+locations:pal_c_0530,"Umm Fagarah",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4027026083, ""lng"":35.1504345688}","part of At Tuwani",node
+locations:pal_c_0531,"Saadet Tha'lah",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4200290419, ""lng"":35.1920161292}","part of Imneizil",node
+locations:pal_c_0532,"Ein Ayoub Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9499322507, ""lng"":35.0929829741}","part of Ras Karkar",node
+locations:pal_c_0533,"Ein ar Rashash",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0350484029, ""lng"":35.368911516}",VPP,node
+locations:pal_c_0534,Tuba,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4068212707, ""lng"":35.1773541727}","part of Khirbet Asafi",node
+locations:pal_c_0535,"Umm al Kheir",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4274170198, ""lng"":35.1956484439}",PCBS,node
+locations:pal_c_0536,"Abu Suhweila",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4542962134, ""lng"":34.9173189683}","part of Beit Mirsim",node
+locations:pal_c_0537,"Khirbet Bism",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4612930614, ""lng"":35.0323432429}","part of Wadi ash Shajina",node
+locations:pal_c_0538,Birin,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.49084547, ""lng"":35.1468080806}","part of Hebron",node
+locations:pal_c_0539,"Wadi al Khazrak",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4911215584, ""lng"":35.1627606018}",VPP,node
+locations:pal_c_0540,Humsa,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5315408657, ""lng"":34.9851646384}","part of Deir Samit",node
+locations:pal_c_0541,Tarusa,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5237453391, ""lng"":34.98709458}","part of Deir Samit",node
+locations:pal_c_0542,"Ar Rawa'in",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.5394528624, ""lng"":35.2562718395}","part of Arab ar Rashayida",node
+locations:pal_c_0543,"Wadi Muhammad",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.634376757, ""lng"":35.1987051925}","part of Al Maniya",node
+locations:pal_c_0544,"Khirbet  at Tayyah",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2932944352, ""lng"":35.0447413092}","part of Tulkarm",node
+locations:pal_c_0545,"Kobar Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9833794723, ""lng"":35.1475351836}","part of Kobar",node
+locations:pal_c_0546,"Ad Duwwara",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5580245865, ""lng"":35.1421418325}","part of Sa'ir",node
+locations:pal_c_0547,"At Taybe",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5625981941, ""lng"":35.0499432019}","part of Tarqumiya",node
+locations:pal_c_0548,"Khirbet Abu 'Anqar",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4940474858, ""lng"":35.3884709328}","part of Faqqu'a",node
+locations:pal_c_0549,"Al Farisiya-Nab'a al Ghazal",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3424103098, ""lng"":35.510196247}","part of Al Farisiya",node
+locations:pal_c_0550,"Al Farisiya-al Zu'bi",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3713124974, ""lng"":35.5161713562}","part of 'Ein el Beida",node
+locations:pal_c_0551,"Hammamat al Maleh - Al Meiteh",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3262459456, ""lng"":35.4720784762}","part of Al Malih",node
+locations:pal_c_0552,"Hammamat al Maleh - Al Burj",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3285558424, ""lng"":35.4599723494}","part of Al Malih",node
+locations:pal_c_0553,"Hammamat al Maleh",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3290635135, ""lng"":35.4786818769}","part of Al Malih",node
+locations:pal_c_0554,"Khirbet Fraseen",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4299817947, ""lng"":35.1190544472}","part of Imreiha",node
+locations:pal_c_0555,"Jabal al Aqra'a",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4230351405, ""lng"":35.1830086358}","part of Ya'bad",node
+locations:pal_c_0556,"Az Za'ayyem Za'atreh Herders",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7958546822, ""lng"":35.2779528618}",VPP,node
+locations:pal_c_0557,"Dahiyat al Aqbat Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8505441944, ""lng"":35.2592308779}","part of Ar Ram & Dah",node
+locations:pal_c_0558,"Jaba' (Tajammu' Badawi)",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8525597071, ""lng"":35.2629128896}","PCBS 2007",node
+locations:pal_c_0559,"Al Baqa'a",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5431231919, ""lng"":35.1281636174}",PCBS,node
+locations:pal_c_0560,"Sahel Deir Sharaf ('Arab De'is)",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2579641922, ""lng"":35.1634389589}","part of Deir Sharaf",node
+locations:pal_c_0561,"Deir Ghassana (Bani Zeid)",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0466054274, ""lng"":35.0982456478}","part of Bani Zeid",node
+locations:pal_c_0562,Arura,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0416255336, ""lng"":35.1738020313}","part of Bani Zeid ash Sharqiya",node
+locations:pal_c_0563,Ammuriya,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0638992024, ""lng"":35.2107934893}","PCBS Tables",node
+locations:pal_c_0564,"Ein al Hilwa - Um al Jmal",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3295623516, ""lng"":35.5025045298}","part of Al Malih",node
+locations:pal_c_0565,"Al Jiftlik-abu al 'Ajaj",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.1264937571, ""lng"":35.4941378204}","PCBS Tables",node
+locations:pal_c_0566,"Al Jiftlik-Garb al Muthallath",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.1420732858, ""lng"":35.4981501768}","part of Al Jiftlik",node
+locations:pal_c_0567,"Al Jiftlik-ash-Shuneh",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.1545506571, ""lng"":35.4715600015}","part of Al Jiftlik",node
+locations:pal_c_0568,"Al Lubban ash Sharqiya",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0706069459, ""lng"":35.2412883836}","PCBS Tables",node
+locations:pal_c_0569,"Ein ad Duyuk at Tahta",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8671434326, ""lng"":35.4387334777}","part of Jericho",node
+locations:pal_c_0570,Yasid,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2952948666, ""lng"":35.2782169574}","PCBS Tables",node
+locations:pal_c_0571,Qaryut,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0692073988, ""lng"":35.2975310948}",PCBS,node
+locations:pal_c_0572,Jalud,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0685377413, ""lng"":35.3158874399}","PCBS Tables",node
+locations:pal_c_0573,Duma,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0575062115, ""lng"":35.3677173924}",PCBS,node
+locations:pal_c_0574,Qabalan,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1027533639, ""lng"":35.2875203518}","PCBS Tables",node
+locations:pal_c_0575,"As Sawiya",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0849925955, ""lng"":35.2572134547}",PCBS,node
+locations:pal_c_0576,Yatma,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1085401937, ""lng"":35.271215106}",PCBS,node
+locations:pal_c_0577,Jurish,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1018604955, ""lng"":35.3223651121}","PCBS Tables",node
+locations:pal_c_0578,Qusra,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0863819363, ""lng"":35.3306589646}",PCBS,node
+locations:pal_c_0579,Talfit,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0852264167, ""lng"":35.2941650568}","PCBS Tables",node
+locations:pal_c_0580,"Majdal Bani Fadil",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0832452664, ""lng"":35.3641725139}",PCBS,node
+locations:pal_c_0581,Urif,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1581138563, ""lng"":35.225242626}","PCBS Tables",node
+locations:pal_c_0582,"Zeita Jamma'in",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1374604568, ""lng"":35.1852992675}","PCBS Tables",node
+locations:pal_c_0583,"Jamma'in",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1335925885, ""lng"":35.2125199367}",PCBS,node
+locations:pal_c_0584,Awarta,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1618171296, ""lng"":35.2870154128}",PCBS,node
+locations:pal_c_0585,Odala,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1535844167, ""lng"":35.2767765894}","PCBS Tables",node
+locations:pal_c_0586,Huwwara,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1498090405, ""lng"":35.2571626791}",PCBS,node
+locations:pal_c_0587,Einabus,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.147735726, ""lng"":35.2436364928}","PCBS Tables",node
+locations:pal_c_0588,Osarin,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1260637072, ""lng"":35.310282135}",PCBS,node
+locations:pal_c_0589,Aqraba,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1258481981, ""lng"":35.3442644233}","PCBS Tables",node
+locations:pal_c_0590,"Izbat Abu Hamada",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1968526138, ""lng"":35.0604427719}","part of Khirbet Sir",node
+locations:pal_c_0591,Sarra,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2104519622, ""lng"":35.1899574049}",PCBS,node
+locations:pal_c_0592,Tell,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1994441679, ""lng"":35.2119266695}","PCBS Tables",node
+locations:pal_c_0593,Madama,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1841598803, ""lng"":35.2322683665}",PCBS,node
+locations:pal_c_0594,"Asira al Qibliya",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1759966104, ""lng"":35.2134887242}",PCBS,node
+locations:pal_c_0595,"Balata Camp",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2063193892, ""lng"":35.2867101004}","PCBS Tables",node
+locations:pal_c_0596,"Iraq Burin",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2004619518, ""lng"":35.2422666125}",PCBS,node
+locations:pal_c_0597,Burin,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.182726865, ""lng"":35.2494865445}",PCBS,node
+locations:pal_c_0598,Rujeib,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.193042395, ""lng"":35.2933545837}",PCBS,node
+locations:pal_c_0599,"Beit Furik",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1780016176, ""lng"":35.3340181689}","PCBS Tables",node
+locations:pal_c_0600,"Beit Dajan",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1929580379, ""lng"":35.3724923159}","PCBS Tables",node
+locations:pal_c_0601,Salim,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2094863812, ""lng"":35.329778937}",PCBS,node
+locations:pal_c_0602,"Khirbet Tall al Ghar",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.243770844, ""lng"":35.3800874647}","part of Al 'Aqrabaniya",node
+locations:pal_c_0603,"Izbat al Khilal",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3019526058, ""lng"":35.0989430553}","part of Kafr al Labad",node
+locations:pal_c_0604,"Al Jarba",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3849961129, ""lng"":35.2586881485}","PCBS 2007",node
+locations:pal_c_0605,"Al Mas'udiya",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2822782793, ""lng"":35.176402444}","part of Burqa",node
+locations:pal_c_0606,Burqa,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.3000280454, ""lng"":35.1908659361}",PCBS,node
+locations:pal_c_0607,"Beit Imrin",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2925919646, ""lng"":35.2165977984}","PCBS Tables",node
+locations:pal_c_0608,"Nisf Jubeil",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2834204426, ""lng"":35.219568653}","PCBS Tables",node
+locations:pal_c_0609,Sabastiya,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2756249203, ""lng"":35.1978164146}",PCBS,node
+locations:pal_c_0610,Ijnisinya,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2727715788, ""lng"":35.2160621867}","PCBS Tables",node
+locations:pal_c_0611,"An Naqura",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2639801711, ""lng"":35.1980120299}",PCBS,node
+locations:pal_c_0612,Tannin,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4080431075, ""lng"":35.3429418006}","part of Telfit",node
+locations:pal_c_0613,"Khirbet ash Sheikh Sa'eed",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4715776605, ""lng"":35.1080050506}","part of Barta'a ash Sharqiya",node
+locations:pal_c_0614,"Khirbet Shuweika",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.402407874, ""lng"":35.0027023018}","part of Adh Dhahiriya",node
+locations:pal_c_0615,"Khallet Athaba'",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3934027172, ""lng"":35.1577932566}",VPP,node
+locations:pal_c_0616,"Khirbet at Tawamin",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3914491381, ""lng"":35.1379901045}","part of Khirbet Bir al 'Idd",node
+locations:pal_c_0617,"Al Muwarraq",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5290343255, ""lng"":34.9668141183}","part of Beit Maqdum",node
+locations:pal_c_0618,Somara,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4190853384, ""lng"":34.9311116199}","part of Adh Dhahiriya",node
+locations:pal_c_0619,"Khirbet Deir Shams",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4077347229, ""lng"":35.0209414107}","part of Adh Dhahiriya",node
+locations:pal_c_0620,"Khirbet Sarura",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.404688716, ""lng"":35.151425818}","part of At Tuwani",node
+locations:pal_c_0621,Kharoubeh,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.401588194, ""lng"":35.1613408126}",na,node
+locations:pal_c_0622,"Al 'Alaqa at Tahta",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4556750266, ""lng"":35.0043077425}","part of Imreish",node
+locations:pal_c_0623,Abda,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4647106036, ""lng"":35.0241370191}","part of Imreish",node
+locations:pal_c_0624,"AD Duweir",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4627651945, ""lng"":35.1309085423}","part of Yatta",node
+locations:pal_c_0625,"Khirbet Jamrura",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5832094077, ""lng"":34.976676536}","part of Tarqumiya",node
+locations:pal_c_0626,Wadih,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5038655589, ""lng"":35.0014475802}","part of Dura",node
+locations:pal_c_0627,Rafada,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5188858731, ""lng"":35.0396164856}","part of Dura",node
+locations:pal_c_0628,"Al Khamajat",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5450291855, ""lng"":35.0437722103}","part of Taffuh",node
+locations:pal_c_0629,"Qinan an Namir",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5451830698, ""lng"":35.1813070914}","part of Sa'ir",node
+locations:pal_c_0630,"Jurun al Louz",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5490451187, ""lng"":35.184592863}","part of Bani Na'im",node
+locations:pal_c_0631,"Wadi ar Rim",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5493233889, ""lng"":35.1943501158}","part of Sa'ir",node
+locations:pal_c_0632,"Khirbet al Mantara",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6319808773, ""lng"":35.1119251391}","part of Beit Ummar",node
+locations:pal_c_0633,"Khallet 'Afana",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6486577127, ""lng"":35.1411805886}","PCBS 2007",node
+locations:pal_c_0634,"Khirbet Tuqu'",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6287735338, ""lng"":35.2071706786}","part of Tuqu'",node
+locations:pal_c_0635,"Al Juneid",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2250050918, ""lng"":35.2082821686}","part of Nablus",node
+locations:pal_c_0636,Nablus,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2217593381, ""lng"":35.2600764639}",PCBS,node
+locations:pal_c_0637,"Ein Beit el Mai Camp",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2306199432, ""lng"":35.2489170775}","PCBS Tables",node
+locations:pal_c_0638,"Ath Thabra",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6635173924, ""lng"":35.1782701133}","part of Wadi Rahhal",node
+locations:pal_c_0639,"Khallet al Balluta",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6781561893, ""lng"":35.1342443889}","part of Khallet Sakariya",node
+locations:pal_c_0640,"Wadi al 'Arayis",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.710387231, ""lng"":35.2831706011}","part of Al 'Ubeidiya",node
+locations:pal_c_0641,"Beit Safafa",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7411668524, ""lng"":35.2028707694}","JIIS 2011",node
+locations:pal_c_0642,"Al 'Asakira",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6706927053, ""lng"":35.2261880585}","part of Jannatah (Beit Falouh)",node
+locations:pal_c_0643,"Jabal al Mukabbir",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.754482715, ""lng"":35.2460589375}","JIIS 2011",node
+locations:pal_c_0644,"Ras al 'Amud",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7697326369, ""lng"":35.2487251871}","JIIS 2011, wit Wadi Qaddum",node
+locations:pal_c_0645,"Ath Thuri",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7646490036, ""lng"":35.2351433609}","JIIS 2011",node
+locations:pal_c_0646,Silwan,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.769770354, ""lng"":35.23891082}","JIIS 2011",node
+locations:pal_c_0647,"As Suwwana",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7837686941, ""lng"":35.2434726167}","with At Tur, JIIS 2011",node
+locations:pal_c_0648,"At Tur",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7816051689, ""lng"":35.2500658878}","JIIS 2011",node
+locations:pal_c_0649,"Ash Shayyah",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7754189224, ""lng"":35.2461381907}","with At Tur, JIIS 2011",node
+locations:pal_c_0650,"Wadi al Joz",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7885811884, ""lng"":35.2320972256}","with Sheikh Jarrah, JIIS 2011",node
+locations:pal_c_0651,"Deir Hajla",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8202109845, ""lng"":35.5015902064}","PCBS 2007",node
+locations:pal_c_0652,"Deir Quruntul",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8747291169, ""lng"":35.4323462625}","part of Jericho",node
+locations:pal_c_0653,"Khirbet Sarra",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0630560594, ""lng"":35.3127396802}","part of Qaryut",node
+locations:pal_c_0654,"Khirbet Susa",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0785968757, ""lng"":35.0834180628}","part of Kafr ad Dik",node
+locations:pal_c_0655,"Jafa an Nun",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1371075826, ""lng"":35.3893947577}","part of Ar Rajman",node
+locations:pal_c_0656,"Ar Rajman",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1517250323, ""lng"":35.3686734672}","PCBS 2007",node
+locations:pal_c_0657,"Kafr Qalil",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1903530085, ""lng"":35.2795377079}",PCBS,node
+locations:pal_c_0658,"Samaritan Village",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2034111718, ""lng"":35.26973372}","part of Nablus",node
+locations:pal_c_0659,"Askar Camp",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.217841468, ""lng"":35.3006904408}","PCBS Tables",node
+locations:pal_c_0660,"Shihda wa Hamlan",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2356742009, ""lng"":35.3874028599}","part of Al 'Aqrabaniya",node
+locations:pal_c_0661,"Al 'Aqrabaniya",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2519722558, ""lng"":35.3787252141}","PCBS Tables",node
+locations:pal_c_0662,"An Nassariya",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2441166884, ""lng"":35.3926448667}","PCBS Tables",node
+locations:pal_c_0663,"Beit Hasan",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2379418741, ""lng"":35.4042374123}","PCBS Tables",node
+locations:pal_c_0664,"Umm Tuba",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7304890069, ""lng"":35.2298592451}","wit Sur Baher, JIIS 2011",node
+locations:pal_c_0665,"Khallet Hamad",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6871463577, ""lng"":35.2175230305}","part of Hindaza",node
+locations:pal_c_0666,"Wadi Umm Qal'a",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6886910109, ""lng"":35.2248529159}","part of Hindaza",node
+locations:pal_c_0667,Rakhme,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6777137094, ""lng"":35.2208858212}","part of Jannatah (Beit Falouh)",node
+locations:pal_c_0668,"Al 'Ein",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4672336398, ""lng"":35.1753004375}","part of Al Buweib",node
+locations:pal_c_0669,"Qinan Jaber",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4314371173, ""lng"":35.1098715696}","part of Khallet Salih",node
+locations:pal_c_0670,"Al Muntar",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.436320156, ""lng"":35.0752778542}","part of Yatta",node
+locations:pal_c_0671,"Qurnet ar Ras",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4500458529, ""lng"":35.1191720273}","part of Yatta",node
+locations:pal_c_0672,Hureiz,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4693631352, ""lng"":35.1248612526}","part of Yatta",node
+locations:pal_c_0673,Khurisa,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4598504714, ""lng"":35.1280242779}","part of Yatta",node
+locations:pal_c_0674,"Qinan an Najma",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.448111468, ""lng"":35.0605111815}","part of Yatta",node
+locations:pal_c_0675,"Khallet 'Arabi",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4594994731, ""lng"":35.0524604566}","part of Yatta",node
+locations:pal_c_0676,"Al Farisiya- al Jubiya",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3673347044, ""lng"":35.5280869469}","part of 'Ein el Beida",node
+locations:pal_c_0677,"Jourat al Jamal",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4172986018, ""lng"":35.0859069995}",na,node
+locations:pal_c_0678,"Khirbet Mas'ud",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4433315085, ""lng"":35.1135944248}","PCBS 2007",node
+locations:pal_c_0679,"East Jerusalem",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7781121704, ""lng"":35.2323205944}","JIIS 2011",node
+locations:pal_c_0680,"Furush Beit Dajan",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1850648124, ""lng"":35.4530757752}",PCBS,node
+locations:pal_c_0681,"Humsa - Al Jufeh",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1873743278, ""lng"":35.4585384584}","part of Furush Beit Dajan",node
+locations:pal_c_0682,Qila,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6108133522, ""lng"":35.0035142471}","part of Beit Ula",node
+locations:pal_c_0683,"Ras al Jora",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6043147699, ""lng"":34.9979038977}","part of Beit Ula",node
+locations:pal_c_0684,"At Tur Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7827569661, ""lng"":35.2594928252}",VPP,node
+locations:pal_c_0685,"Khan al Ahmar - Mihtawish",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8122682802, ""lng"":35.3316760528}","part of Al Ka'abina (TajBad)",node
+locations:pal_c_0686,Beita,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1415372443, ""lng"":35.2816954218}",PCBS,node
+locations:pal_c_0687,Halaweh,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3647535443, ""lng"":35.1582127704}","part of Khirbet al Fakheit",node
+locations:pal_c_0688,"Al Bowereh",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8570905514, ""lng"":35.3129172312}",VPP,node
+locations:pal_c_0689,"Al Jiftlik - al Musaffah",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.1607784394, ""lng"":35.4834164781}","part of Al Jiftlik",node
+locations:pal_c_0690,"Beit Sahur",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7012506477, ""lng"":35.2245042753}",PCBS,node
+locations:pal_c_0691,"Deir 'Ammar",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9687168093, ""lng"":35.1073038679}","part of AL-Itihad",node
+locations:pal_c_0692,"Al Mashareqa Altahta",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5110649804, ""lng"":35.1085507771}","part of Hebron",node
+locations:pal_c_0693,Hebron,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.531029387, ""lng"":35.0897142742}","PCBS Tables",node
+locations:pal_c_0694,"Bani Na'im",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.519348463, ""lng"":35.1596811042}",PCBS,node
+locations:pal_c_0695,Ar-Rawabi,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0111579756, ""lng"":35.1887536713}",na,node
+locations:pal_c_0696,"Abu Shukheidim",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9649104402, ""lng"":35.1721459032}","PCBS Tables",node
+locations:pal_c_0697,"Beit Ta'mir",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6746979161, ""lng"":35.2418416515}",PCBS,node
+locations:pal_c_0698,"Al Haddadiya",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7115716002, ""lng"":35.29059476}","PCBS Tables",node
+locations:pal_c_0699,Battir,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7184803938, ""lng"":35.1407592446}",PCBS,node
+locations:pal_c_0700,"Ayda Camp",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7193235798, ""lng"":35.1986065121}",PCBS,node
+locations:pal_c_0701,"Al 'Azza Camp",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7154742924, ""lng"":35.201560367}","PCBS Tables",node
+locations:pal_c_0702,"Al Khas",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7151261181, ""lng"":35.2503995854}",PCBS,node
+locations:pal_c_0703,Fheidat,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8152182128, ""lng"":35.2749086429}","part of Anata",node
+locations:pal_c_0704,"Al Kurshan",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7246425387, ""lng"":35.1792611694}",VPP,node
+locations:pal_c_0705,"Al 'Ubeidiya",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.719609401, ""lng"":35.2962046848}",PCBS,node
+locations:pal_c_0706,"Abu Dis",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.762266927, ""lng"":35.2603326961}",PCBS,node
+locations:pal_c_0707,"Az Za'ayyem",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7885686412, ""lng"":35.2646559496}",PCBS,node
+locations:pal_c_0708,Anata,,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8110123384, ""lng"":35.2610546497}",PCBS,node
+locations:pal_c_0709,"Aqbat Jaber Camp",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8400148044, ""lng"":35.440391909}",PCBS,node
+locations:pal_c_0710,"Beit Sira",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.887911714, ""lng"":35.046378769}",PCBS,node
+locations:pal_c_0711,"Beit Liqya",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8697312688, ""lng"":35.0653895012}",PCBS,node
+locations:pal_c_0712,Qibya,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9767032126, ""lng"":35.0097428094}",PCBS,node
+locations:pal_c_0713,Budrus,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9665126019, ""lng"":34.9933899867}",PCBS,node
+locations:pal_c_0714,Shuqba,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9870285429, ""lng"":35.0402762487}",PCBS,node
+locations:pal_c_0715,Shabtin,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9734566784, ""lng"":35.0492938589}",PCBS,node
+locations:pal_c_0716,"Deir Qaddis",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9482504421, ""lng"":35.0433716403}",PCBS,node
+locations:pal_c_0717,"Ni'lin",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9473028433, ""lng"":35.0211045848}",PCBS,node
+locations:pal_c_0718,"Ein Yabrud",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9485493874, ""lng"":35.2501146562}",PCBS,node
+locations:pal_c_0719,"Khallet Edar",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.4936097715, ""lng"":35.1141330515}",PCBS,node
+locations:pal_c_0720,"Khallet Hammameh",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7211440482, ""lng"":35.1942384707}",PCBS,node
+locations:pal_c_0721,"Deir Jarir",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9657262917, ""lng"":35.2930301487}",PCBS,node
+locations:pal_c_0722,"At Tayba",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9538851167, ""lng"":35.2995019958}","PCBS Tables",node
+locations:pal_c_0723,"Al 'Auja",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.9493105164, ""lng"":35.4653630497}",PCBS,node
+locations:pal_c_0724,Rantis,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.029065199, ""lng"":35.018545351}",PCBS,node
+locations:pal_c_0725,Abud,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0166958905, ""lng"":35.0686490212}",PCBS,node
+locations:pal_c_0726,"Deir Abu Mash'al",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9983566244, ""lng"":35.0691253702}","PCBS Tables",node
+locations:pal_c_0727,"An Nabi Salih",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0163761442, ""lng"":35.1245424833}",PCBS,node
+locations:pal_c_0728,"Al 'Uddeisa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5456254803, ""lng"":35.1424510209}","part of Sa'ir",node
+locations:pal_c_0729,"Ras at Tawil",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5648309841, ""lng"":35.1473168017}","part of Sa'ir",node
+locations:pal_c_0730,Sarta,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1049240701, ""lng"":35.0922988247}",PCBS,node
+locations:pal_c_0731,Qira,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1205065791, ""lng"":35.1714463951}","PCBS Tables",node
+locations:pal_c_0732,"Kifl Haris",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1183811745, ""lng"":35.1563539161}",PCBS,node
+locations:pal_c_0733,Haris,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1138459969, ""lng"":35.1407736205}",PCBS,node
+locations:pal_c_0734,Salfit,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0841152791, ""lng"":35.1809970844}","PCBS Tables",node
+locations:pal_c_0735,Marda,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1140869597, ""lng"":35.1948592484}",PCBS,node
+locations:pal_c_0736,Iskaka,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1025357329, ""lng"":35.2235488576}",PCBS,node
+locations:pal_c_0737,Yasuf,,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1075443596, ""lng"":35.2366207686}",PCBS,node
+locations:pal_c_0738,Habla,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.165161374, ""lng"":34.9781410552}",PCBS,node
+locations:pal_c_0739,"Ras at Tira",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1619101211, ""lng"":35.0102628442}",PCBS,node
+locations:pal_c_0740,"Ras 'Atiya",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1586824821, ""lng"":34.9899592649}",PCBS,node
+locations:pal_c_0741,"Izbat Salman",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1412544762, ""lng"":34.9996359346}",PCBS,node
+locations:pal_c_0742,"Beit Amin",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1316637582, ""lng"":35.0208374356}",PCBS,node
+locations:pal_c_0743,"Kafr Thulth",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1528627033, ""lng"":35.0464196489}",PCBS,node
+locations:pal_c_0744,Sanniriya,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1285791172, ""lng"":35.0473118368}",PCBS,node
+locations:pal_c_0745,"Qarawat Bani Hassan",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1254746657, ""lng"":35.1000771896}",PCBS,node
+locations:pal_c_0746,"Deir Istiya",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1311293415, ""lng"":35.1399950037}",PCBS,node
+locations:pal_c_0747,Qalqiliya,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1883955811, ""lng"":34.972273452}",PCBS,node
+locations:pal_c_0748,"An Nabi Elyas",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1843475709, ""lng"":35.0183496913}",PCBS,node
+locations:pal_c_0749,Jayyus,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.2007319973, ""lng"":35.0347297897}","PCBS Tables",node
+locations:pal_c_0750,"Khirbet Sir",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1968471848, ""lng"":35.0557985015}","PCBS Tables",node
+locations:pal_c_0751,Azzun,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1764396038, ""lng"":35.058065537}",PCBS,node
+locations:pal_c_0752,Isla,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1723275834, ""lng"":35.0369949046}",PCBS,node
+locations:pal_c_0753,"Baqat al Hatab",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.2046257865, ""lng"":35.1137304136}",PCBS,node
+locations:pal_c_0754,Hajja,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.2023621938, ""lng"":35.1313035396}",PCBS,node
+locations:pal_c_0755,"Kafr Laqif",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1816342038, ""lng"":35.0910542087}",PCBS,node
+locations:pal_c_0756,Sanur,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3564388935, ""lng"":35.2447413725}",PCBS,node
+locations:pal_c_0757,Meithalun,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3487292645, ""lng"":35.2733294968}","PCBS Tables",node
+locations:pal_c_0758,"Beit Lid",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.261992303, ""lng"":35.131079061}","PCBS Tables",node
+locations:pal_c_0759,"Kafr al Labad",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.297244814, ""lng"":35.1065400392}","PCBS Tables",node
+locations:pal_c_0760,Ramin,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.2878475127, ""lng"":35.1511360375}","PCBS Tables",node
+locations:pal_c_0761,"An Nazla al Gharbiya",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.4017917628, ""lng"":35.0822403607}",PCBS,node
+locations:pal_c_0762,"Nazlat 'Isa",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.4152862021, ""lng"":35.0573133211}",PCBS,node
+locations:pal_c_0763,"Baqa ash Sharqiya",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.409342272, ""lng"":35.0692190047}",PCBS,node
+locations:pal_c_0764,"Khallet an Nu'man",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7175896244, ""lng"":35.2420897377}",PCBS,node
+locations:pal_c_0765,"Dar Salah",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7135198696, ""lng"":35.2722705732}","PCBS Tables",node
+locations:pal_c_0766,"Ash Sheikh Sa'd",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7363464619, ""lng"":35.2558547251}",PCBS,node
+locations:pal_c_0767,Hindaza,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.689834829, ""lng"":35.2074146772}","PCBS Tables",node
+locations:pal_c_0768,"Za'tara",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6727875406, ""lng"":35.2579619913}",PCBS,node
+locations:pal_c_0769,"Tuqu'",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6400526693, ""lng"":35.2168339412}",PCBS,node
+locations:pal_c_0770,"As Sawahira ash Sharqiya",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7448607135, ""lng"":35.2707666571}",PCBS,node
+locations:pal_c_0771,"Al 'Eizariya",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7698598945, ""lng"":35.2695310951}",PCBS,node
+locations:pal_c_0772,"Al Mughayyir",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":32.0186935626, ""lng"":35.3446703991}",PCBS,node
+locations:pal_c_0773,"Ein as Sultan Camp",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.8772841555, ""lng"":35.4455705962}","PCBS Tables",node
+locations:pal_c_0774,"Qaddura Camp",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9015170237, ""lng"":35.2060949026}","PCBS Tables",node
+locations:pal_c_0775,"Izbat al Ashqar",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1402341459, ""lng"":35.0200763109}",PCBS,node
+locations:pal_c_0776,"Al Mudawwar",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1431785344, ""lng"":35.0117114322}",PCBS,node
+locations:pal_c_0777,"Far'ata",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1903420622, ""lng"":35.1667660043}","PCBS Tables",node
+locations:pal_c_0778,Immatin,,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1913245567, ""lng"":35.1577972582}",PCBS,node
+locations:pal_c_0779,"Marj al Ghazal",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":32.1669437584, ""lng"":35.526581099}",PCBS,node
+locations:pal_c_0780,Bethlehem,,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7090962871, ""lng"":35.2035198282}",PCBS,node
+locations:pal_c_0781,"Arab al Hamdun",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4632722547, ""lng"":35.1828436311}","part of Nazlat ash Sheikh Zeid",node
+locations:pal_c_0782,"Al Jameelat",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4680736504, ""lng"":35.338905233}","PCBS 2007",node
+locations:pal_c_0783,"Arab as Suweitat",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.444879342, ""lng"":35.3085038064}","part of Jenin",node
+locations:pal_c_0784,"Humsa - Al Farsheh",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2071190258, ""lng"":35.4520622867}","part of Furush Beit Dajan",node
+locations:pal_c_0785,"Mashru' Beit Qad",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4748137238, ""lng"":35.3653394756}","part of Beit Qad",node
+locations:pal_c_0786,Barghasha,,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4772870691, ""lng"":35.3785173903}","part of Faqqu'a",node
+locations:pal_c_0787,"Umm Qabub",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4687997545, ""lng"":35.3731450282}","part of Beit Qad",node
+locations:pal_c_0788,"Nazlat Abu Nar",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.4062597545, ""lng"":35.0748553148}","part of Baqa ash Sharqiya",node
+locations:pal_c_0789,"Khirbet Kharruba",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3969460516, ""lng"":35.3874353506}","PCBS 2007",node
+locations:pal_c_0790,"Khirbet Marah ar Raha",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4031365118, ""lng"":35.3802055567}","PCBS 2007",node
+locations:pal_c_0791,"Al Manshiya",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.4408499854, ""lng"":35.2180995682}","PCBS 2007",node
+locations:pal_c_0792,Qussa,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5896104917, ""lng"":34.9593850551}","part of Tarqumiya",node
+locations:pal_c_0793,"Khirbet Mushrif",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.625471491, ""lng"":35.0257618601}","part of Kharas",node
+locations:pal_c_0794,"Al Baqqar",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5991992901, ""lng"":35.0864666657}","part of Halhul",node
+locations:pal_c_0795,Kuziba,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5992737452, ""lng"":35.1573116407}","part of Sa'ir",node
+locations:pal_c_0796,"Izbat Abu Khameish",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.309906554, ""lng"":35.0859287538}","part of Kafr al Labad",node
+locations:pal_c_0797,"Mantiqat al Heish",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3509784766, ""lng"":35.3288612424}","Part of Sir",node
+locations:pal_c_0798,Salhab,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.354450059, ""lng"":35.3725605413}","PCBS 2007",node
+locations:pal_c_0799,"Irqan Turad",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.6053753008, ""lng"":35.1547379523}","part of Sa'ir",node
+locations:pal_c_0800,"Shamaliyyat at Hawa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5935894904, ""lng"":35.1456806508}","part of Sa'ir",node
+locations:pal_c_0801,"Khirbet kafr Sheiyhan",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.8964825392, ""lng"":35.1603342444}","part of Beituniya",node
+locations:pal_c_0802,"Kafr 'Aqab",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8734921889, ""lng"":35.220838511}","JIIS 2011",node
+locations:pal_c_0803,Talluza,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2713642966, ""lng"":35.2961309383}","PCBS Tables",node
+locations:pal_c_0804,"Al Badhan",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.2614453688, ""lng"":35.3259233493}","PCBS Tables",node
+locations:pal_c_0805,Dhinnaba,,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3108398433, ""lng"":35.0424344595}","part of Tulkarm",node
+locations:pal_c_0806,"Kafr Rumman",,[pal],"[pal,pal_a1_2,pal_a2_03]",,"{""lat"":32.3160644206, ""lng"":35.1276935921}","part of Anabta",node
+locations:pal_c_0807,Bizzariya,,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.3078991289, ""lng"":35.1662264833}","PCBS Tables",node
+locations:pal_c_0808,Kashda,,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.3013103641, ""lng"":35.329973753}","PCBS 2007",node
+locations:pal_c_0809,"Al Kufeir",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.3717834139, ""lng"":35.3412270878}","PCBS 2007",node
+locations:pal_c_0810,"Khirbet an Nahla",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6755838077, ""lng"":35.1808898238}","part of Wadi Rahhal",node
+locations:pal_c_0811,"Fakht al Jul",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.695151943, ""lng"":35.2508382553}","part of Ash Shawawra",node
+locations:pal_c_0812,"Khirbet al Marajim",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.0488352013, ""lng"":35.3580882545}","part of Duma",node
+locations:pal_c_0813,"Alttawel and Tall al Khashaba",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1056048464, ""lng"":35.3675076745}","PCBS 2007",node
+locations:pal_c_0814,"Wadi Qana",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1585814127, ""lng"":35.1112001602}","part of Deir Istiya",node
+locations:pal_c_0815,"Za'tara",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1227380864, ""lng"":35.2570879122}","PCBS 2007",node
+locations:pal_c_0816,"Khirbet Tana",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1558386381, ""lng"":35.3975346226}","part of Ar Rajman",node
+locations:pal_c_0817,"Arab ar Ramadin ash Shamali",,[pal],"[pal,pal_a1_2,pal_a2_05]",,"{""lat"":32.1940363828, ""lng"":35.0002881365}","PCBS 2007",node
+locations:pal_c_0818,"Al Hadidiya",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2475313145, ""lng"":35.4969283604}","part of Khirbet Humsa",node
+locations:pal_c_0819,"Wadi al Ghrous",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5345239002, ""lng"":35.1224237159}","part of Hebron",node
+locations:pal_c_0820,"Al Fureidis",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6709662978, ""lng"":35.2375573619}","part of Za'tara",node
+locations:pal_c_0821,"Al 'Iqab",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6636960024, ""lng"":35.2339984923}","part of Jannatah (Beit Falouh)",node
+locations:pal_c_0822,"As Sa'aida",,[pal],"[pal,pal_a1_2,pal_a2_01]",,"{""lat"":32.5054397691, ""lng"":35.1996074383}","PCBS 2007",node
+locations:pal_c_0823,"Ras Shihadeh Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8055079673, ""lng"":35.249926486}","part of Anata",node
+locations:pal_c_0824,"Al Khalayleh Bedouins",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.8516613021, ""lng"":35.1642511683}","part of Al Jib",node
+locations:pal_c_0825,"Surkhi Qunbar",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.7604765249, ""lng"":35.2530982052}","part of Abu Dis",node
+locations:pal_c_0826,"Umm al-'Asafir",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.718101927, ""lng"":35.2222740774}","part of Beit Sahur",node
+locations:pal_c_0827,"Qla’a Zeta",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5587198199, ""lng"":35.1252960086}",PCBS,node
+locations:pal_c_0828,"Beit 'Einun",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5658252214, ""lng"":35.1307887209}",PCBS,node
+locations:pal_c_0829,Silwad,,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9779012553, ""lng"":35.2610694258}",PCBS,node
+locations:pal_c_0830,"Silwad Camp",,[pal],"[pal,pal_a1_2,pal_a2_07]",,"{""lat"":31.9683414307, ""lng"":35.2618196195}","PCBS Tables",node
+locations:pal_c_0831,"Wadi al Amayer Herders",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3746301897, ""lng"":35.0843872274}","part of Wadi al Amayer",node
+locations:pal_c_0832,"Wadi al Amayer",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.3854946448, ""lng"":35.0791633907}",PCBS,node
+locations:pal_c_0833,"Humsa - Al Bqai'a",,[pal],"[pal,pal_a1_2,pal_a2_02]",,"{""lat"":32.2268846703, ""lng"":35.4922404121}","part of Khirbet Humsa",node
+locations:pal_c_0834,Kureise,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5234274696, ""lng"":35.0155936852}","part of Dura",node
+locations:pal_c_0835,"Izbat Abu Adam",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.0941156966, ""lng"":35.1232363156}","PCBS 2007",node
+locations:pal_c_0836,"Farsh Alhawa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5583035715, ""lng"":35.0791584598}","part of Hebron",node
+locations:pal_c_0837,"Fer'a",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.549560359, ""lng"":35.0114873637}","part of Idhna",node
+locations:pal_c_0838,"Jurat al Khiel",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5915340611, ""lng"":35.1790525714}",VPP,node
+locations:pal_c_0839,"Al Jalajel",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5263524539, ""lng"":35.1377971732}","part of Bani Na'im",node
+locations:pal_c_0840,"Al Ja'waneh",,[pal],"[pal,pal_a1_2,pal_a2_04]",,"{""lat"":32.1813036337, ""lng"":35.3919512331}",VPP,node
+locations:pal_c_0841,"Khan Al Ahmar - Makab as Samen",,[pal],"[pal,pal_a1_2,pal_a2_09]",,"{""lat"":31.812434691, ""lng"":35.3257812065}","part of Al Ka'abina (TajBad)",node
+locations:pal_c_0842,"Umm Qussa",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.443007087, ""lng"":35.223556009}",PCBS,node
+locations:pal_c_0843,Hiwara,,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.453979777, ""lng"":35.192422056}",PCBS,node
+locations:pal_c_0844,"Al Abaidiya",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.447690541, ""lng"":35.220162512}",PCBS,node
+locations:pal_c_0845,"Umm Zaitonah",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.476848219, ""lng"":35.142138717}",PCBS,node
+locations:pal_c_0846,"Dar abu Kayed",,[pal],"[pal,pal_a1_2,pal_a2_06]",,"{""lat"":32.1004273199, ""lng"":35.1325446718}",PCBS,node
+locations:pal_c_0847,"An Nabi Musa",,[pal],"[pal,pal_a1_2,pal_a2_08]",,"{""lat"":31.7864908594, ""lng"":35.4313954413}",PCBS,node
+locations:pal_c_0848,"Al Orentelleh",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.6674557122, ""lng"":35.2442750039}",PCBS,node
+locations:pal_c_0849,"Al Baqa'a",,[pal],"[pal,pal_a1_2,pal_a2_11]",,"{""lat"":31.5431231919, ""lng"":35.1281636174}",PCBS,node
+locations:pal_c_0850,"Al Bqei'ah",,[pal],"[pal,pal_a1_2,pal_a2_10]",,"{""lat"":31.7190000004, ""lng"":35.4054630002}",PCBS,node
+locations:pal_c_0851,"Al Qaraya al Badawiya al Maslakh",,[pal],"[pal,pal_a1_1,pal_a2_12]",,"{""lat"":31.5597388128, ""lng"":34.5178633003}",PCBS,node
+locations:pal_c_0852,"Beit Lahiya",,[pal],"[pal,pal_a1_1,pal_a2_12]",,"{""lat"":31.5502233586, ""lng"":34.5018884348}",PCBS,node
+locations:pal_c_0853,"Beit Hanun",,[pal],"[pal,pal_a1_1,pal_a2_12]",,"{""lat"":31.5395884248, ""lng"":34.5355028684}",PCBS,node
+locations:pal_c_0854,"'Izbat Beit Hanun",,[pal],"[pal,pal_a1_1,pal_a2_12]",,"{""lat"":31.5471635121, ""lng"":34.5235398058}",PCBS,node
+locations:pal_c_0855,"Jabalya Camp",,[pal],"[pal,pal_a1_1,pal_a2_12]",,"{""lat"":31.5375615952, ""lng"":34.4966822969}",PCBS,node
+locations:pal_c_0856,Jabalya,,[pal],"[pal,pal_a1_1,pal_a2_12]",,"{""lat"":31.5303576862, ""lng"":34.4838946069}",PCBS,node
+locations:pal_c_0857,"Madinat al 'Awda",,[pal],"[pal,pal_a1_1,pal_a2_13]",,"{""lat"":31.5423500877, ""lng"":34.4578802822}",PCBS,node
+locations:pal_c_0858,"Ash Shati' Camp",,[pal],"[pal,pal_a1_1,pal_a2_13]",,"{""lat"":31.532764346, ""lng"":34.444998092}",PCBS,node
+locations:pal_c_0860,"Al Mughraqa (Abu Middein)",,[pal],"[pal,pal_a1_1,pal_a2_13]",,"{""lat"":31.468566595, ""lng"":34.418163856}",PCBS,node
+locations:pal_c_0861,"Juhor ad Dik",,[pal],"[pal,pal_a1_1,pal_a2_13]",,"{""lat"":31.4568249973, ""lng"":34.4401320677}",PCBS,node
+locations:pal_c_0862,"An Nuseirat Camp",,[pal],"[pal,pal_a1_1,pal_a2_14]",,"{""lat"":31.4489670779, ""lng"":34.391295936}",PCBS,node
+locations:pal_c_0863,"Al Bureij Camp",,[pal],"[pal,pal_a1_1,pal_a2_14]",,"{""lat"":31.4387002759, ""lng"":34.4015852314}",PCBS,node
+locations:pal_c_0864,"Az Zawayda",,[pal],"[pal,pal_a1_1,pal_a2_14]",,"{""lat"":31.4303940022, ""lng"":34.3722058858}",PCBS,node
+locations:pal_c_0865,"Deir al Balah Camp",,[pal],"[pal,pal_a1_1,pal_a2_14]",,"{""lat"":31.4249666938, ""lng"":34.3397772791}",PCBS,node
+locations:pal_c_0866,"Al Maghazi Camp",,[pal],"[pal,pal_a1_1,pal_a2_14]",,"{""lat"":31.4223527314, ""lng"":34.3838465369}",PCBS,node
+locations:pal_c_0867,"Deir al Balah",,[pal],"[pal,pal_a1_1,pal_a2_14]",,"{""lat"":31.4167056154, ""lng"":34.3481396049}",PCBS,node
+locations:pal_c_0868,"Al Musaddar",,[pal],"[pal,pal_a1_1,pal_a2_14]",,"{""lat"":31.4151941203, ""lng"":34.3758455357}",PCBS,node
+locations:pal_c_0869,"Wadi as Salqa",,[pal],"[pal,pal_a1_1,pal_a2_14]",,"{""lat"":31.389235335, ""lng"":34.3566355135}",PCBS,node
+locations:pal_c_0870,"Al Qarara",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3679279275, ""lng"":34.3370237821}",PCBS,node
+locations:pal_c_0871,"As Sureij",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.362261743, ""lng"":34.3525090461}",PCBS,node
+locations:pal_c_0872,"Khan Yunis Camp",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3486957567, ""lng"":34.295165505}",PCBS,node
+locations:pal_c_0873,"Al Mawasi (Khan Yunis)",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3489317638, ""lng"":34.2585757489}",PCBS,node
+locations:pal_c_0874,"Khan Yunis",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3397520629, ""lng"":34.3057603662}",PCBS,node
+locations:pal_c_0875,"Bani Suheila",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3416879214, ""lng"":34.3246567716}",PCBS,node
+locations:pal_c_0876,"'Abasan al Jadida (as Saghira)",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3418244381, ""lng"":34.3446212948}",PCBS,node
+locations:pal_c_0877,"'Abasan al Kabira",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3246822391, ""lng"":34.3437278664}",PCBS,node
+locations:pal_c_0878,"Qizan an Najjar",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3249211901, ""lng"":34.2828956946}",PCBS,node
+locations:pal_c_0879,"Qa' al Kharaba",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.314342305, ""lng"":34.3135039228}",PCBS,node
+locations:pal_c_0880,"Qa' al Qurein",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3121704957, ""lng"":34.3284170803}",PCBS,node
+locations:pal_c_0881,"Khuza'a",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3067368556, ""lng"":34.3575482413}",PCBS,node
+locations:pal_c_0882,"Umm Kameil",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.3008011228, ""lng"":34.3035268025}",PCBS,node
+locations:pal_c_0883,"Umm al Kilab",,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.2946496539, ""lng"":34.2894389275}",PCBS,node
+locations:pal_c_0884,"Al Fukhkhari",,[pal],"[pal,pal_a1_1,pal_a2_15]",,"{""lat"":31.2967949571, ""lng"":34.324073458}",PCBS,node
+locations:pal_c_0885,"Tall as Sultan",,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.3092226211, ""lng"":34.2418190118}",PCBS,node
+locations:pal_c_0886,Rafah,,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.2699412177, ""lng"":34.2555015251}",PCBS,node
+locations:pal_c_0887,"Rafah Camp",,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.2843431204, ""lng"":34.2516804691}",PCBS,node
+locations:pal_c_0888,"Al Bayuk",,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.2594225967, ""lng"":34.2853384057}",PCBS,node
+locations:pal_c_0889,"Al Mawasi (Rafah)",,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.3296747958, ""lng"":34.2306481662}",PCBS,node
+locations:pal_c_0890,"Al Qarya as Suwaydiya",,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.3238006347, ""lng"":34.2211971954}",PCBS,node
+locations:pal_c_0891,"Shokat as Sufi",,[pal],"[pal,pal_a1_1,pal_a2_16]",,"{""lat"":31.2504773985, ""lng"":34.2672436315}",PCBS,node
+locations:pal_c_0892,"As Siafa",,[pal],"[pal,pal_a1_1,pal_a2_12]",,"{""lat"":31.5843344599, ""lng"":34.4914824562}",PCBS,node
+locations:pal_c_0893,"'Arab Maslakh Beit Lahya",,[pal],"[pal,pal_a1_1,pal_a2_12]",,"{""lat"":31.5352431606, ""lng"":34.5179107466}",PCBS,node
+locations:southern-remal,"Southern Remal","Southern Remal",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.51736, ""lng"":34.437586}",,node
+locations:tal-el-hawa,"Tal El Hawa","Tal El Hawa",[pal],"[pal,pal_a1_1,pal_a2_13,gaza]",,"{""lat"":31.50464, ""lng"":34.436127}",,node
