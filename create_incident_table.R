@@ -3,7 +3,7 @@
 
 # the packages below are required to run all functions for this script.
 pkgs = c("dplyr", "lubridate", "pdftools", "purrr", "readr", "readxl", "stringr", "tidyr")
-require(pkgs)
+lapply(pkgs, require, character.only = TRUE)
 
 # hardcoded variables -----------------------------------------------------
 
